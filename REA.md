@@ -1,20 +1,4 @@
-########################################################
-##    DEU UM TRABALHO DO CACETE PARA FAZER A LISTA.  ##
-## SE FOR REPASSAR DEIXE OS DEVIDOS CREDITOS A ORION.##
-##     GOSTOU, CONTRIBUA! SIMPLES. NÂO SÓ COPIE!     ##
-#######################################################
-
 #EXTM3U
-
-################################################################################################################################
-
-##
-## LISTA ORION. NÃO SEJA BUNDÃO :/ COPIOU E REPASSOU? DEIXE OS DEVIDOS CREDITOS! ACESSE T.ME/ORIONCURSOS - A MELHOR BIBLIOTECA! 
-
-##
-* ############################################################################################################################## 
-
-*
 
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cartoon.jpg" group-title="Canais" , Cartoon Network
 https://streaming.belugacdn.link/a/hls1/cartoon.m3u8?expires=1599335140&token=876e1870235117583eb78c1085eea192
