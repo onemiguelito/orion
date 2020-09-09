@@ -186,11 +186,8 @@ http://pdsrv.io:80/wilson02/wilson02/60785
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais Abertos" , SBT - TV Serra Dourada - (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/sbt.jpg" group-title="Canais Abertos" , SBT
-
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/boborj.jpg" group-title="Canais Abertos" , Globo RJ
-
+http://pdsrv.io:80/wilson02/wilson02/6113
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais Abertos" , Record-TV RJ
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 
