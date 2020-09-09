@@ -14,6 +14,12 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/61112
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png" group-title="Canais" , Disney Jr HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61247
 
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="Canais" , Disney Channel SD
+http://pdsrv.io:80/sara2020/sara2020/4385
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="Canais" , Disney Channel HD
+http://pdsrv.io:80/sara2020/sara2020/7902
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Disney_Channel_Logo_.png" group-title="Canais" , Disney Channel HD+
+http://pdsrv.io:80/sara2020/sara2020/11546
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="Canais" , Disney XD SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4383
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="Canais" , Disney XD HD+
@@ -39,6 +45,8 @@ http://pdsrv.io:80/wilson02/wilson02/10292
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/comedycentral.jpg" group-title="Canais" , Comedy Central HD+
 http://pdsrv.io:80/wilson02/wilson02/24920
 
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="Canais" , TBS SD
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/4322
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="Canais" , TBS HD
 http://pdsrv.io:80/wilson02/wilson02/7873
 
@@ -50,6 +58,8 @@ https://streaming.belugacdn.link/a/hls1/nick.m3u8?expires=1599337097&token=1dbbf
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tooncast.jpg" group-title="Canais" , Tooncast HD
 http://pdsrv.io:80/wilson02/wilson02/61129
 
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tlc.jpg" group-title="Canais" , TLC SD
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/4313
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tlc.jpg" group-title="Canais" , TLC HD
 http://pdsrv.io:80/wilson02/wilson02/24786
 
@@ -121,6 +131,8 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/11529
 http://pdsrv.io:80/wilson02/wilson02/7874
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png", STUDIO UNIVERSAL HD+
 http://pdsrv.io:80/wilson02/wilson02/13194
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="Canais" , SYFY SD
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/4323
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="Canais" , SYFY HD
 http://pdsrv.io:80/wilson02/wilson02/7795
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/syfy.png" group-title="Canais" , SYFY HD+
@@ -434,7 +446,10 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/34881
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34882
 #EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Dois Homens e Meio 24HRS
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34878
-
+#EXTINF:-1,24: AS AVENTURAS DE JACKIE CHAN
+http://lista.titanuhd.top:8880/tata1234/tata1234/4107
+#EXTINF:-1,24: Avatar - Lenda de Ang
+http://lista.titanuhd.top:8880/tata1234/tata1234/476
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais" , SBT - TV Serra Dourada - (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
