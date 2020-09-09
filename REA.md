@@ -14,9 +14,9 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/61112
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/disney-junior-logo-png-2.png" group-title="Canais" , Disney Jr HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61247
 
-#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="Canais" , Disney Jr SD
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="Canais" , Disney XD SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4383
-#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="Canais" , Disney Jr HD+
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="Canais" , Disney XD HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61114
 
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",BOOMERANG HD
