@@ -25,9 +25,9 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/4383
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="Canais" , Disney XD HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61114
 
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",BOOMERANG HD
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" ,BOOMERANG HD
 http://pdsrv.io:80/wilson02/wilson02/61102
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png",BOOMERANG HD+
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" ,BOOMERANG HD+
 http://pdsrv.io:80/wilson02/wilson02/11534
 
 
@@ -46,15 +46,26 @@ http://pdsrv.io:80/wilson02/wilson02/10292
 http://pdsrv.io:80/wilson02/wilson02/24920
 
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="Canais" , TBS SD
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/4322
+
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="Canais" , TBS HD
 http://pdsrv.io:80/wilson02/wilson02/7873
 
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tcm.png" group-title="Canais" , TCM HD
 http://pdsrv.io:80/wilson02/wilson02/61004
 
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/nick.jpg" group-title="Canais" , Nickelodeon
-https://streaming.belugacdn.link/a/hls1/nick.m3u8?expires=1599337097&token=1dbbf8cec16159924809e6d2901ce800
+
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/nick.jpg" group-title="Canais" , Nickelodeon HD
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/61123
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/nick.jpg" group-title="Canais" , Nickelodeon HD+
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/11527
+
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="Canais" , NickJr SD
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/4346
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="Canais" , NickJr HD
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/10260
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nickjr.png" group-title="Canais" , NickJr HD+
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/11527
+
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tooncast.jpg" group-title="Canais" , Tooncast HD
 http://pdsrv.io:80/wilson02/wilson02/61129
 
@@ -436,7 +447,7 @@ http://pdsrv.io:80/wilson02/wilson02/60785
 http://pdsrv.io:80/wilson02/wilson02/34931
 #EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",NARUTO 24HRS
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34903
-#EXTINF:-1 tvg-name="AVATAR A LENDA DE KORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",24H AVATAR A LENDA DE KORA
+#EXTINF:-1 tvg-name="AVATAR A LENDA DE KORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",AVATAR A LENDA DE KORA
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/58591
 #EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL 24HRS
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34880
@@ -450,6 +461,14 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/34878
 http://lista.titanuhd.top:8880/tata1234/tata1234/4107
 #EXTINF:-1 group-title="CANAIS 24HRS", Avatar - Lenda de Ang
 http://lista.titanuhd.top:8880/tata1234/tata1234/476
+#EXTINF:-1 tvg-id="" tvg-name="OS CAVALEIROS DO ZODIACO 24HRS¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",OS CAVALEIROS DO ZODIACO 24HRS¹
+http://pdsrv.io:80/sara2020/sara2020/34909
+#EXTINF:-1 tvg-id="" tvg-name="O MASKARA 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",O MASKARA 24HRS
+http://pdsrv.io:80/sara2020/sara2020/34907
+#EXTINF:-1 tvg-id="" tvg-name="O SHOW DO GARFIELD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",O SHOW DO GARFIELD
+http://pdsrv.io:80/sara2020/sara2020/60720
+
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais" , SBT - TV Serra Dourada - (GO)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
