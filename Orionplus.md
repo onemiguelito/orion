@@ -433,7 +433,7 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/61233
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", DISCOVERY TURBO SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4386
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", DISCOVERY TURBO HD
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/6877
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/6877N
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", DISCOVERY TURBO HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/11531
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png", DISCOVERY SCIENCE HD
