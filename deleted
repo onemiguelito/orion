@@ -90,6 +90,7 @@ http://pdsrv.io:80/wilson02/wilson02/61129
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/772882243870228480/XAVq66y0.jpg" group-title="Canais",Gloob
+http://randomserver.site:2086/crystal/12345/92686
 
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/comedycentral.jpg" group-title="Canais" , Comedy Central SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4391
@@ -99,7 +100,7 @@ http://pdsrv.io:80/wilson02/wilson02/10292
 http://pdsrv.io:80/wilson02/wilson02/24920
 
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="Canais" , TBS HD
-http://190.2.153.204:25461/Jonatan888883/yecgaa123/5539
+
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tbs.png" group-title="Canais" , TBS HD+
 http://pdsrv.io:80/wilson02/wilson02/7873
 
@@ -114,14 +115,15 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/4313
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tlc.jpg" group-title="Canais" , TLC HD
 http://pdsrv.io:80/wilson02/wilson02/24786
 
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tlc.jpg" group-title="Canais" , TLC² HD
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/13196
+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6959
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="Canais" , FOOD NETWORK HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61163
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="Canais" , FOOD NETWORK HD+
 http://pdsrv.io:80/wilson02/wilson02/61179
 
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tlc.jpg" group-title="Canais" , TLC HD²
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/13196
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="Canais",MULTISHOW  HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6867
@@ -143,15 +145,6 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/8151
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/33763
 
 
-#EXTINF:-1 tvg-logo="https://canaismax.com/img/canais/assistir-cinemax-hd-ao-vivo.jpg" group-title="Canais", Cinemax
-http://190.2.153.204:25461/Jonatan888883/yecgaa123/5321
-
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix
-ttps://streaming.belugacdn.link/a/hls1/megapix.m3u8?expires=1599346928&token=
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix HD+
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/8146
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix 4K
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/33762
 
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/FOX_HD_LatAm.png" group-title="Canais" , FOX HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6122
@@ -223,9 +216,16 @@ http://pdsrv.io:80/wilson02/wilson02/13197
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/33767
 
 
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="Canais" , CINEMAX HD
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix
+ttps://streaming.belugacdn.link/a/hls1/megapix.m3u8?expires=1599346928&token=
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix HD+
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/8146
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix 4K
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/33762
+
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://canaismax.com/img/canais/assistir-cinemax-hd-ao-vivo.jpg" group-title="Canais" , CINEMAX HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/7802
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/gallery_8863_7_22580.png" group-title="Canais" , CINEMAX HD+
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://canaismax.com/img/canais/assistir-cinemax-hd-ao-vivo.jpg" group-title="Canais" , CINEMAX HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/10993
 
 #EXTINF:-1 group-title="Canais" tvg-logo="https://skyassineonline.com.br/img/channels/lg-249-canal-sony-hd.png", CANAL SONY SD
@@ -236,8 +236,7 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/6961
 http://pdsrv.io:80/wilson02/wilson02/13202
 
 #EXTINF:-1 group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/GNT_HD.jpg" ,GNT
-http://190.2.153.204:25461/Jonatan888883/yecgaa123/5340
-
+http://randomserver.site:2086/crystal/12345/92685
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png", A&E HD
 http://pdsrv.io:80/wilson02/wilson02/8139
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png", A&E HD+
@@ -304,6 +303,8 @@ http://pdsrv.io:80/wilson02/wilson02/60980
 http://pdsrv.io:80/wilson02/wilson02/13190
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboplus.jpg" group-title="Canais" , HBO PLUS LEG HD+
 http://pdsrv.io:80/wilson02/wilson02/47753
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="Canais",HBO SIGNATURE
+http://randomserver.site:2086/crystal/12345/92678
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="Canais" , HBO FAMILY HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6109
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="Canais" , HBO FAMILY HD+
@@ -319,6 +320,8 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/6945
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/13185
 
 
+#EXTINF:-1 tvg-logo="https://i.blogs.es/417744/paramount_network_logo/1366_2000.jpg" group-title="Canais",PARAMOUNT CHANNEL
+http://randomserver.site:2086/crystal/12345/92661
 #EXTINF:-1 tvg-name="UNIVERSAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="Canais",STUDIO UNIVERSAL SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4324
 #EXTINF:-1 tvg-name="UNIVERSAL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="Canais",STUDIO UNIVERSAL HD http://pdsrv.io:80/wsxqaz1/wsxqaz1/7874
@@ -335,8 +338,7 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/33766
 #EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png", ESPN 2 HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61257
 
-#EXTINF:-1 group-title="Canais Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png
-", ESPN² 4K
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png", ESPN² 4K
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6143
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="Canais Exclusive" , Combate HD
 http://pdsrv.io:80/sara2020/sara2020/6172
@@ -396,8 +398,8 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/33753
 
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX BRAZZERS EUROPE
 http://pdsrv.io:80/wilson02/wilson02/35604
-#EXTINF:-1 group-title="+18 tvg-logo="https://images.newschoolers.com/images/17/00/48/51/11/485111.png",Brazzers
-http://188.35.9.26:9031/udp/117m
+#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://images.newschoolers.com/images/17/00/48/51/11/485111.png",Brazzers
+
 #EXTINF:-1 group-title="+18 Canais Exclusive",Jasmin Channel 720P
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX PASSION
@@ -522,6 +524,8 @@ http://pdsrv.io:80/wilson02/wilson02/35600
 http://pdsrv.io:80/wilson02/wilson02/35601
 #EXTINF:-1 group-title="SESSÃO PROIBIDA +18" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX BRASILEIRINHAS: FAZENDO SACANAGEM
 http://pdsrv.io:80/wilson02/wilson02/35602
+#EXTINF:-1 group-title="SESSÃO PROIBIDA +18" tvg-logo="http://i.imgur.com/LVvFkuY.jpg",XXX BRASILEIRINHAS: PECADOS E TENTACOES
+https://lh3.googleusercontent.com/dCqNogC401-6Jb2h9wJqlpykh6Ps7elpQEAwl2905NwqEiWcqsAutq-zJeZ_xGylD8YdUvgFgqd12y6kCYKMHJpeVjAh8tX3WdXg3sTjItV6SN4ckmb4Onu6bch8k7DfVZob8VNW7g=m18
 #EXTINF:-1 group-title="SESSÃO PROIBIDA +18" tvg-logo="http://i.imgur.com/paYgdLO.png",Amador: Caroline baianinha na safadeza com o primo atrás da árvore
 http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-278.mp4
 #EXTINF:-1 group-title="SESSÃO PROIBIDA +18" tvg-logo="http://i.imgur.com/paYgdLO.png",Amador: Caroline parte 2
@@ -591,15 +595,29 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b
 http://cdn.adultiptv.net/livecams.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.wallpaperup.com/uploads/wallpapers/2013/07/12/117398/00621faac041f47b83422dcf96814abe-700.jpg" group-title="Canais" ,History Channel
-http://190.2.153.204:25461/Jonatan888883/yecgaa123/5346
 tvg-logo="" group-title="Canais"
+#EXTINF:-1 tvg-logo="https://www.wallpaperup.com/uploads/wallpapers/2013/07/12/117398/00621faac041f47b83422dcf96814abe-700.jpg" group-title="Canais" ,History Channel HD
+http://randomserver.site:2086/crystal/12345/92677
+#EXTINF:-1 tvg-logo="https://www.wallpaperup.com/uploads/wallpapers/2013/07/12/117398/00621faac041f47b83422dcf96814abe-700.jpg" group-title="Canais" ,History Channel HD+
+http://randomserver.site:2086/crystal/12345/92732
+
 #EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/05/Produ%C3%A7%C3%A3o-local-Anatomia-do-Crime-estreia-no-Investiga%C3%A7%C3%A3o-Discovery.jpg" group-title="Canais",Investigacao Discovery
-http://190.2.153.204:25461/Jonatan888883/yecgaa123/5348
+http://randomserver.site:2086/crystal/12345/92676
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41B9xWJ9sjL.png" group-title="Canais",Lifetime
-http://190.2.153.204:25461/Jonatan888883/yecgaa123/5349
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F1vmbIsCJU/hqdefault.jpg" group-title="Canais",Max
-http://190.2.153.204:25461/Jonatan888883/yecgaa123/5350
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F1vmbIsCJU/hqdefault.jpg" group-title="Canais",MAX PRIME
+http://randomserver.site:2086/crystal/12345/92673
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F1vmbIsCJU/hqdefault.jpg" group-title="Canais",MAX UP
+http://randomserver.site:2086/crystal/12345/92672
+#EXTINF:-1 group-title="Canais" tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png",Multishow
+http://ok2.se:8000/gino123/gino123/94680
+
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i2.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2017/04/Nat-Geo.jpg",NAT GEO
+http://randomserver.site:2086/crystal/12345/92668
+#EXTINF:-1 group-title="Canais" tvg-logo="https://1.bp.blogspot.com/-DgveMCDNfjo/WNBaDEEcgYI/AAAAAAAA2e8/Zd-w9I1cJAALRnORwacicLQ_JmC1T_5xACLcB/s1600/maxresdefault%2B%25281%2529.jpg",NATGEO WILD
+http://randomserver.site:2086/crystal/12345/92666
+#EXTINF:-1 group-title="Canais" tvg-logo="https://4.bp.blogspot.com/-gSAbcysifSU/WGgA35SwA0I/AAAAAAAAzlE/Xy79Vjg_4EEgO1C8oIaSCzdjcAroVLruACPcB/s1600/NATGEO.jpg",NATIONAL GEOGRAPHIC
+http://randomserver.site:2086/crystal/12345/92665
 
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="Canais" , Discovery Channel SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4385
@@ -610,6 +628,8 @@ http://pdsrv.io:80/wilson02/wilson02/11548
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="Canais" , Discovery Channel 4K
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/33754
 
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoveryhomeihealth.jpg" group-title="Canais" ,Discovery Civilization
+http://randomserver.site:2086/crystal/12345/92714
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoveryhomeihealth.jpg" group-title="Canais" , Discovery H&H HD
 http://pdsrv.io:80/wilson02/wilson02/61081
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoveryhomeihealth.jpg" group-title="Canais" , Discovery H&H HD+
@@ -617,41 +637,41 @@ http://pdsrv.io:80/wilson02/wilson02/11533
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoveryhomeihealth.jpg" group-title="Canais" , Discovery H&H HD+²
 http://pdsrv.io:80/wilson02/wilson02/61231
 
-#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", DISCOVERY THEATER SD
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/10289
-#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", DISCOVERY THEATER HD
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6130
-#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", DISCOVERY THEATER HD+
+#EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61233
 
-#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", DISCOVERY TURBO SD
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", Discovery Turbo SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4386
-#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", DISCOVERY TURBO HD
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", Discovery Turbo HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6877N
-#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", DISCOVERY TURBO HD+
+#EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", Discovery Turbo HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/11531
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png", DISCOVERY SCIENCE HD
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png", Discovery Science HD
 http://pdsrv.io:80/wilson02/wilson02/7861
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png", DISCOVERY SCIENCE HD+
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png", Discovery Science HD+
 http://pdsrv.io:80/wilson02/wilson02/13206
 
 
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png", DISCOVERY WORLD SD
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png", Discovery World SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/10288
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png", DISCOVERY WORLD HD
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png", Discovery World HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6128
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png", DISCOVERY WORLD HD+
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_World.png", Discovery World HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61235
 
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png", ANIMAL PLANET HD
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png", Animal Planet HD
 http://pdsrv.io:80/wilson02/wilson02/6142
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png", ANIMAL PLANET HD+
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png", Animal Planet HD+
 http://pdsrv.io:80/wilson02/wilson02/13205
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png", ANIMAL PLANET 4K
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/animal-planet.png", Animal Planet 4K
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/33758
-#EXTINF:-1 group-title="Canais" vg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png", BAND SPORTS HD
+#EXTINF:-1 group-title="Canais" vg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png", BAND Sports HD
 http://pdsrv.io:80/wilson02/wilson02/6138
-#EXTINF:-1 group-title="Canais" vg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png", BAND SPORTS HD+
+#EXTINF:-1 group-title="Canais" vg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/BandSports-HD_Logotipo.png", BAND Sports HD+
 http://pdsrv.io:80/wilson02/wilson02/11535
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Canais" , Retrô Cartoon
@@ -660,7 +680,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Canais",CNN Brasil HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61147
 #EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Canais",CNN Brasil HD+
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/44724
 
 //24HORAS
 
@@ -676,15 +695,15 @@ http://pdsrv.io:80/wilson02/wilson02/60785
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34911
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", TODO MUNDO ODEIA O CHRIS 24HRS
 http://pdsrv.io:80/wilson02/wilson02/34931
-#EXTINF:-1 group-title="Canais 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Todo Mundo Odeia O Chris
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Todo Mundo Odeia O Chris
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715099
-#EXTINF:-1 group-title="Canais 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Chaves
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Chaves
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715110
 #EXTINF:-1 tvg-name="Xena 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Xena
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34938
 #EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",NARUTO 24HRS
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34903
-#EXTINF:-1 group-title="Canais 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Naruto
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Naruto
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715098
 #EXTINF:-1 tvg-name="AVATAR A LENDA DE KORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",AVATAR A LENDA DE KORA
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/58591
@@ -698,11 +717,11 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/34882
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34878
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", AS AVENTURAS DE JACKIE CHAN
 http://lista.titanuhd.top:8880/tata1234/tata1234/4107
-#EXTINF:-1 group-title="Canais 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H As Aventuras De Jackie Chan
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H As Aventuras De Jackie Chan
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/717108
-#EXTINF:-1 group-title="Canais 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H A Pantera Cor De Rosa
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H A Pantera Cor De Rosa
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755668
-#EXTINF:-1 group-title="Canais 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Yugioh Clássico
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Yugioh Clássico
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755672
 #EXTINF:-1 tvg-id="" tvg-name="Super Choque 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Super Choque 24HRS
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34947
@@ -779,6 +798,10 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Canais" , RedeTV! 4K
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/33751
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/36882e29bc7a31b643af08a0f61e23c3.jpg" group-title="Canais",ANIME LOVING
+http://animeloving.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais" , Globo RJ HD
 http://pdsrv.io:80/wilson02/wilson02/6113
@@ -882,7 +905,7 @@ http://pdsrv.io:80/movie/wsxqaz1/wsxqaz1/34652.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Pantera Negra (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg" group-title="Marvel",Pantera Negra (2018)
 http://pdsrv.io:80/movie/wsxqaz1/wsxqaz1/34660.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Marvel" ,Vingadores: Ultimato - 2019
-http://anhanga.lhmtv.gq/filmes/avengersendgamenew-dub-1080p.mp4?LHMTv
+http://anhanga.lhmtv.gq/filmes/avengersendgamenew-dub-1080p.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Marvel" ,Vingadores: Ultimato - 2019
 http://pdsrv.io:80/movie/wsxqaz1/wsxqaz1/34666.mp4
 
@@ -897,8 +920,6 @@ http://pdsrv.io:80/movie/wsxqaz1/wsxqaz1/34645.mp4
 http://pdsrv.io:80/movie/wsxqaz1/wsxqaz1/35705.mp4
 
 
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Marvel" ,X-Men: Fenix Negra
-http://anhanga.lhmtv.gq/filmes/xmenfenixnegrats-dub-720p.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/filmes.png" group-title="Marvel" ,X-Men: Fenix Negra
 http://pdsrv.io:80/movie/wsxqaz1/wsxqaz1/42430.mp4
 
@@ -1036,58 +1057,23 @@ http://pdsrv.io:80/movie/wsxqaz1/wsxqaz1/35648.mp4
 http://webtvcde.com/Filmes/Dublados/Jumanji.Bem.Vindo.a.Selva.2018.1080p.mkv
 
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,A Hora do Rush
-http://anhanga.lhmtv.gq/filmes/rush-dub-720p.mp4?LHMTv
+http://anhanga.lhmtv.gq/filmes/rush-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,A Hora do Rush 2
-http://anhanga.lhmtv.gq/filmes/rush2-dub-720p.mp4?LHMTv
+http://anhanga.lhmtv.gq/filmes/rush2-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,Cidade de Deus
-http://anhanga.lhmtv.gq/filmes/cidadededeus-dub-720p.mp4?LHMTv
+http://anhanga.lhmtv.gq/filmes/cidadededeus-dub-720p.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos" ,Forrest Gump – O Contador de Historias
-http://anhanga.lhmtv.gq/filmes/forrestgump-dub-720p.mp4?LHMTv
+http://anhanga.lhmtv.gq/filmes/forrestgump-dub-720p.mp4
 #EXTINF:-1 tvg-name="O Curioso Caso de Benjamin Button" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fNRILGSHFzZ9BLUgkraGEHRaBb.jpg" group-title="Classicos",O Curioso Caso de Benjamin Button
 http://pdsrv.io:80/movie/wsxqaz1/wsxqaz1/40683.mkv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Bruce Lee
-http://aranami.lhmtv.gq/filmes/Bruce-Lee-1.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Bruce Lee 2
-http://aranami.lhmtv.gq/filmes/Bruce-Lee-2.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Bruce Lee 3
-http://aranami.lhmtv.gq/filmes/Bruce-Lee-3.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Bruce Lee 4
-http://aranami.lhmtv.gq/filmes/Bruce-Lee-4.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Bruce Lee 5
-http://aranami.lhmtv.gq/filmes/Bruce-Lee-5.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Bruce Lee 6
-http://aranami.lhmtv.gq/filmes/Bruce-Lee-6.mp4?LHMTv
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,O Poderoso Chefao
-http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-1.mp4?LHMTv
+http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-1.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,O Poderoso Chefao 2
-http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-2.mp4?LHMTv
+http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-2.mp4
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 90" ,O Poderoso Chefao 3
-http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-3.mp4?LHMTv
+http://aranami.lhmtv.gq/filmes/O-Poderoso-Chefao-3.mp4
 
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Rocky
-http://aranami.lhmtv.gq/filmes/Rocky.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Rocky 2
-http://aranami.lhmtv.gq/filmes/Rocky-2.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Rocky 3
-http://aranami.lhmtv.gq/filmes/Rocky-3.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Rocky 4
-http://aranami.lhmtv.gq/filmes/Rocky-4.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Jornada Nas Estrelas
-http://aranami.lhmtv.gq/filmes/Jornada-Nas-Estrelas-1.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Jornada Nas Estrelas 2
-http://aranami.lhmtv.gq/filmes/Jornada-Nas-Estrelas-2.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Jornada Nas Estrelas 3
-http://aranami.lhmtv.gq/filmes/Jornada-Nas-Estrelas-3.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Jornada Nas Estrelas 4
-http://aranami.lhmtv.gq/filmes/Jornada-Nas-Estrelas-4.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Jornada Nas Estrelas 5
-http://aranami.lhmtv.gq/filmes/Jornada-Nas-Estrelas-5.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Karate-Kid
-http://aranami.lhmtv.gq/filmes/Karate-Kid-1.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Karate-Kid 2
-http://aranami.lhmtv.gq/filmes/Karate-Kid-2.mp4?LHMTv
-#EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Classicos 1990" ,Karate-Kid 3
-http://aranami.lhmtv.gq/filmes/Karate-Kid-3.mp4?LHMTv
 
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/logo/classicos.png" group-title="Coletanea: Harry Potter" , Harry Potter 1 Pedra Filosofal
 https://playplus.azureedge.net/RCFServer1/ondemand/HRYPTR01.mp4
