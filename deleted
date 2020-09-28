@@ -11,6 +11,40 @@ http://srvcliente.me:80/gege123/gege123/27084
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eS23XjYy4WU/maxresdefault.jpg" group-title="Canais", A Fazenda 2020 HD+
 http://srvcliente.me:80/gege123/gege123/27085
 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Canais" , RedeTV!
+https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Canais" , RedeTV! 4K
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/33751
+
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais" , Globo RJ HD
+http://pdsrv.io:80/wilson02/wilson02/6113
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais" , Globo RJ HD+
+http://pdsrv.io:80/wilson02/wilson02/34526
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais" , Globo 4K
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/33749
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Canais" , RedeTV!
+https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Canais" , RedeTV! 4K
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/33751
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais" , Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais" , Band HD+
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/61314
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais" , Band 4K
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/33747
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais" , SBT - TV Serra Dourada - (GO)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/sbt.jpg" group-title="Canais" , SBT
+http://pdsrv.io:80/wilson02/wilson02/60887
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/sbt.jpg" group-title="Canais" , SBT 4K
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/33757
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais" , Record RJ
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais" , Record 4K
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/33750
+
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cartoon.jpg" group-title="Canais" , Cartoon Network HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/7817
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cartoon.jpg" group-title="Canais" , Cartoon Network HD+
@@ -67,18 +101,8 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/4383
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/800px-Disney_XD_logo_svg.png" group-title="Canais" , Disney XD HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61114
 
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" ,BOOMERANG HD
-http://pdsrv.io:80/wilson02/wilson02/61102
-#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Boomerang_tv_logo.png" ,BOOMERANG HD+
-http://pdsrv.io:80/wilson02/wilson02/11534
 
 
-#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="Canais",DISCOVERY KIDS SD
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/4388
-#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="Canais",DISCOVERY KIDS HD
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/7538
-#EXTINF:-1 tvg-name="DISCOVERY KIDS" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/1200px-2016_Discovery_Kids_logo.svg_.png" group-title="Canais",DISCOVERY KIDS HD+
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/11532
 
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/nick.jpg" group-title="Canais" , Nickelodeon SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4345
@@ -223,9 +247,9 @@ http://pdsrv.io:80/wilson02/wilson02/13197
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/33767
 
 
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix SD
 http://pdsrv.io:80/bruno1/bruno1/4354
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix HD
 http://pdsrv.io:80/bruno1/bruno1/6101
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/8146
@@ -244,8 +268,10 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/6961
 #EXTINF:-1 group-title="Canais" tvg-logo="https://skyassineonline.com.br/img/channels/lg-249-canal-sony-hd.png", CANAL SONY HD+
 http://pdsrv.io:80/wilson02/wilson02/13202
 
-#EXTINF:-1 group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/GNT_HD.jpg" ,GNT
-
+#EXTINF:-1 group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/GNT_HD.jpg" , GNT SD
+http://pdsrv.io:80/bruno1/bruno1/4368
+#EXTINF:-1 group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/GNT_HD.jpg" , GNT HD
+http://pdsrv.io:80/bruno1/bruno1/6956
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png", A&E HD
 http://pdsrv.io:80/wilson02/wilson02/8139
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png", A&E HD+
@@ -312,8 +338,10 @@ http://pdsrv.io:80/wilson02/wilson02/60980
 http://pdsrv.io:80/wilson02/wilson02/13190
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboplus.jpg" group-title="Canais" , HBO PLUS LEG HD+
 http://pdsrv.io:80/wilson02/wilson02/47753
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="Canais",HBO SIGNATURE
-http://randomserver.site:2086/crystal/12345/92678
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="Canais",HBO SIGNATURE SD
+http://pdsrv.io:80/bruno1/bruno1/4361
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/5/5b/Hbosignature.jpg/revision/latest?cb=20161010163602&path-prefix=pt-br" group-title="Canais",HBO SIGNATURE HD
+http://pdsrv.io:80/bruno1/bruno1/6105
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="Canais" , HBO FAMILY HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6109
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png" group-title="Canais" , HBO FAMILY HD+
@@ -329,8 +357,13 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/6945
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/13185
 
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/417744/paramount_network_logo/1366_2000.jpg" group-title="Canais",PARAMOUNT CHANNEL
-http://randomserver.site:2086/crystal/12345/92661
+#EXTINF:-1 tvg-logo="https://i.blogs.es/417744/paramount_network_logo/1366_2000.jpg" group-title="Canais",PARAMOUNT CHANNEL SD
+http://pdsrv.io:80/bruno1/bruno1/6946
+#EXTINF:-1 tvg-logo="https://i.blogs.es/417744/paramount_network_logo/1366_2000.jpg" group-title="Canais",PARAMOUNT CHANNEL HD
+http://pdsrv.io:80/bruno1/bruno1/6945
+#EXTINF:-1 tvg-logo="https://i.blogs.es/417744/paramount_network_logo/1366_2000.jpg" group-title="Canais",PARAMOUNT CHANNEL HD+
+http://pdsrv.io:80/bruno1/bruno1/61214
+
 #EXTINF:-1 tvg-name="UNIVERSAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="Canais",STUDIO UNIVERSAL SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4324
 #EXTINF:-1 tvg-name="UNIVERSAL HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/studiou.png" group-title="Canais",STUDIO UNIVERSAL HD http://pdsrv.io:80/wsxqaz1/wsxqaz1/7874
@@ -342,21 +375,20 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/4380
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6124
 #EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png", ESPN 4K
 http://pdsrv.io:80/sara2020/sara2020/33766
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png", ²ESPN 4K
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/6143
+
 #EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png", ESPN 2 HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/33766
 #EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ESPN-Logo-small.png", ESPN 2 HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61257
 
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png", ESPN² 4K
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/6143
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="Canais Exclusive" , Combate HD
 http://pdsrv.io:80/sara2020/sara2020/6172
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="Canais Exclusive" , Combate² HD
 http://pdsrv.io:80/wilson02/wilson02/6172
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="Canais Exclusive" , Combate HD+
 http://pdsrv.io:80/wilson02/wilson02/61255
-#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="Canais Exclusive" , Combate² HD+
-http://pdsrv.io:80/sara2020/sara2020/8152
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/combate.png" group-title="Canais Exclusive" , Combate 4K
 http://pdsrv.io:80/sara2020/sara2020/33748
 #EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png", SPORTV HD
@@ -404,23 +436,15 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/11550
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/10258
 #EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE 7 HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/11549
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE CLUBES SD¹
-http://pdsrv.io:80/bruno1/bruno1/4333
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE CLUBES HD¹
-http://pdsrv.io:80/bruno1/bruno1/6089
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE CLUBES 4K 
-http://pdsrv.io:80/bruno1/bruno1/61045
 
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX BRAZZERS EUROPE
 http://pdsrv.io:80/wilson02/wilson02/35604
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://images.newschoolers.com/images/17/00/48/51/11/485111.png",Brazzers
 
 #EXTINF:-1 group-title="+18 Canais Exclusive",Jasmin Channel 720P
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?MWINFO
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX PASSION
 http://pdsrv.io:80/wilson02/wilson02/35609
-#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://78.media.tumblr.com/93ad927058454840c5c9324ad80b6147/tumblr_inline_ovpziiL6X81uu2er0_540.png",ADULTOS acestream
-https://78.media.tumblr.com/93ad927058454840c5c9324ad80b6147/tumblr_inline_ovpziiL6X81uu2er0_540.png
 #EXTINF:-1 group-title=""+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX PENTHOUSE QUICKIES
 http://pdsrv.io:80/wilson02/wilson02/35611
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX PINK-O
@@ -439,10 +463,6 @@ http://pdsrv.io:80/wilson02/wilson02/35622
 http://pdsrv.io:80/wilson02/wilson02/61345
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX: SEXTREME HD
 http://pdsrv.io:80/wilson02/wilson02/61344
-#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",SEXTREME LA1
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17067
-#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",SEXTREME LA4
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17068
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX: SEXY HOT SD²
 http://pdsrv.io:80/wilson02/wilson02/61346
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX: VENUS HD²
@@ -453,34 +473,14 @@ http://pdsrv.io:80/wilson02/wilson02/61348
 http://pdsrv.io:80/wilson02/wilson02/61340
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX:PLAYBOY_HD 
 http://pdsrv.io:80/wilson02/wilson02/61362
-#EXTINF:-1 group-title="+18 Canais Exclusive",Playboy 2 HD (E)
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/24680
-#EXTINF:-1 group-title="+18 Canais Exclusive",PLAYBOY EUROPE
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17045
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX:SEXY HOT HD 
 http://pdsrv.io:80/wilson02/wilson02/61366
 
 
-#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA2
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17053
-#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA3
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17054
-#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA4
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17055
-#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA6
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17057
-#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA7
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17058
-#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA9
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17060
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA10
 http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17048
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA11
 http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17049
-#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA12
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17050
-#EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA13
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17051
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA14
 http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17052
 
@@ -646,8 +646,6 @@ http://srvcliente.me:80/movie/gege123/gege123/1521.mp4
 http://srvcliente.me:80/movie/gege123/gege123/1522.mp4
 #EXTINF:-1 group-title="SESSÃO PROIBIDA +18" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12143.jpg",XXX Sexo na Van - Suzana Rhios
 http://srvcliente.me:80/movie/gege123/gege123/1523.mp4
-#EXTINF:-1 group-title="SESSÃO PROIBIDA +18" tvg-logo="http://i.imgur.com/LVvFkuY.jpg",XXX BRASILEIRINHAS: PECADOS E TENTACOES
-https://lh3.googleusercontent.com/dCqNogC401-6Jb2h9wJqlpykh6Ps7elpQEAwl2905NwqEiWcqsAutq-zJeZ_xGylD8YdUvgFgqd12y6kCYKMHJpeVjAh8tX3WdXg3sTjItV6SN4ckmb4Onu6bch8k7DfVZob8VNW7g=m18
 #EXTINF:-1 group-title="SESSÃO PROIBIDA +18" tvg-logo="http://i.imgur.com/paYgdLO.png",Amador: Caroline baianinha na safadeza com o primo atrás da árvore
 http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-278.mp4
 #EXTINF:-1 group-title="SESSÃO PROIBIDA +18" tvg-logo="http://i.imgur.com/paYgdLO.png",Amador: Caroline parte 2
@@ -713,8 +711,7 @@ https://www.ast.tv/stream/2/ultra.m3u8
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 #EXTINF:-1 group-title="+18 Canais Exclusive",Miami TV Latino
 https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1 group-title="+18 Canais Exclusive",Live Cams
-http://cdn.adultiptv.net/livecams.m3u8
+
 
 
 tvg-logo="" group-title="Canais"
@@ -729,22 +726,41 @@ http://randomserver.site:2086/crystal/12345/92676
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F1vmbIsCJU/hqdefault.jpg" group-title="Canais",MAX PRIME
 http://randomserver.site:2086/crystal/12345/92673
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F1vmbIsCJU/hqdefault.jpg" group-title="Canais",MAX UP
-http://randomserver.site:2086/crystal/12345/92672
-#EXTINF:-1 group-title="Canais" tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png",Multishow
-http://ok2.se:8000/gino123/gino123/94680
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F1vmbIsCJU/hqdefault.jpg" group-title="Canais",2C: MAX UP HD
+http://pdsrv.io:80/bruno1/bruno1/47755
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F1vmbIsCJU/hqdefault.jpg" group-title="Canais",MAX UP HD+
+http://pdsrv.io:80/bruno1/bruno1/47756
+
+#EXTINF:-1 group-title="Canais" tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png",Multishow SD
+http://pdsrv.io:80/bruno1/bruno1/4352
+#EXTINF:-1 group-title="Canais" tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png",Multishow HD
+http://pdsrv.io:80/bruno1/bruno1/6867
+
 
 #EXTINF:-1 group-title="Canais" tvg-logo="https://pbs.twimg.com/profile_images/1278334074856312834/9Kfku0xb_400x400.jpg",MTV SD
 http://pdsrv.io:80/bruno1/bruno1/61174
 #EXTINF:-1 group-title="Canais" tvg-logo="https://pbs.twimg.com/profile_images/1278334074856312834/9Kfku0xb_400x400.jpg",MTV HD
 http://pdsrv.io:80/bruno1/bruno1/7524
 
-#EXTINF:-1 group-title="Canais" tvg-logo="https://i2.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2017/04/Nat-Geo.jpg",NAT GEO
-http://randomserver.site:2086/crystal/12345/92668
-#EXTINF:-1 group-title="Canais" tvg-logo="https://1.bp.blogspot.com/-DgveMCDNfjo/WNBaDEEcgYI/AAAAAAAA2e8/Zd-w9I1cJAALRnORwacicLQ_JmC1T_5xACLcB/s1600/maxresdefault%2B%25281%2529.jpg",NATGEO WILD
-http://randomserver.site:2086/crystal/12345/92666
-#EXTINF:-1 group-title="Canais" tvg-logo="https://4.bp.blogspot.com/-gSAbcysifSU/WGgA35SwA0I/AAAAAAAAzlE/Xy79Vjg_4EEgO1C8oIaSCzdjcAroVLruACPcB/s1600/NATGEO.jpg",NATIONAL GEOGRAPHIC
-http://randomserver.site:2086/crystal/12345/92665
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i2.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2017/04/Nat-Geo.jpg",NATGEO SD
+http://pdsrv.io:80/bruno1/bruno1/61094
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i2.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2017/04/Nat-Geo.jpg",NATGEO HD
+http://pdsrv.io:80/bruno1/bruno1/61095
+#EXTINF:-1 group-title="Canais" tvg-logo="https://i2.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2017/04/Nat-Geo.jpg",NATGEO HD+
+http://pdsrv.io:80/bruno1/bruno1/61240
+
+#EXTINF:-1 group-title="Canais" tvg-logo="https://1.bp.blogspot.com/-DgveMCDNfjo/WNBaDEEcgYI/AAAAAAAA2e8/Zd-w9I1cJAALRnORwacicLQ_JmC1T_5xACLcB/s1600/maxresdefault%2B%25281%2529.jpg",NATGEO WILD SD
+http://pdsrv.io:80/bruno1/bruno1/4349
+#EXTINF:-1 group-title="Canais" tvg-logo="https://1.bp.blogspot.com/-DgveMCDNfjo/WNBaDEEcgYI/AAAAAAAA2e8/Zd-w9I1cJAALRnORwacicLQ_JmC1T_5xACLcB/s1600/maxresdefault%2B%25281%2529.jpg",NATGEO WILD HD
+http://pdsrv.io:80/bruno1/bruno1/6099
+#EXTINF:-1 group-title="Canais" tvg-logo="https://1.bp.blogspot.com/-DgveMCDNfjo/WNBaDEEcgYI/AAAAAAAA2e8/Zd-w9I1cJAALRnORwacicLQ_JmC1T_5xACLcB/s1600/maxresdefault%2B%25281%2529.jpg",NATGEO WILD HD+
+http://pdsrv.io:80/bruno1/bruno1/61241
+
+#EXTINF:-1 group-title="Canais" tvg-logo="https://4.bp.blogspot.com/-gSAbcysifSU/WGgA35SwA0I/AAAAAAAAzlE/Xy79Vjg_4EEgO1C8oIaSCzdjcAroVLruACPcB/s1600/NATGEO.jpg",NATIONAL GEOGRAPHIC SD
+http://pdsrv.io:80/bruno1/bruno1/4348
+#EXTINF:-1 group-title="Canais" tvg-logo="https://4.bp.blogspot.com/-gSAbcysifSU/WGgA35SwA0I/AAAAAAAAzlE/Xy79Vjg_4EEgO1C8oIaSCzdjcAroVLruACPcB/s1600/NATGEO.jpg",NATIONAL GEOGRAPHIC HD
+http://pdsrv.io:80/bruno1/bruno1/6098
 
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="Canais" , Discovery Channel SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4385
@@ -755,8 +771,7 @@ http://pdsrv.io:80/wilson02/wilson02/11548
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Channel2.png" group-title="Canais" , Discovery Channel 4K
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/33754
 
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/discoveryhomeihealth.jpg" group-title="Canais" ,Discovery Civilization
-http://randomserver.site:2086/crystal/12345/92714
+
 #EXTINF:-1 ,Discovery Civilization HD
 http://srvcliente.me:80/gege123/gege123/3169
 #EXTINF:-1 ,Discovery Civilization HD+
@@ -769,7 +784,7 @@ http://pdsrv.io:80/wilson02/wilson02/11533
 http://pdsrv.io:80/wilson02/wilson02/61231
 
 #EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater SD
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/10289
+http://pdsrv.io:80/bruno1/bruno1/61077
 #EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6130
 #EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater HD+
@@ -778,7 +793,7 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/61233
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", Discovery Turbo SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4386
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", Discovery Turbo HD
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/6877N
+http://pdsrv.io:80/bruno1/bruno1/6877
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", Discovery Turbo HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/11531
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png", Discovery Science HD
@@ -811,7 +826,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Canais",CNN Brasil HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/61147
 #EXTINF:-1 tvg-name="CNN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="Canais",CNN Brasil HD+
-
+http://srvcliente.me:80/gege123/gege123/23536
 
 //Series
 
@@ -1753,7 +1768,8 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/11552
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6090
 #EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE 5 HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/9231
-#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE 6 HD HDhttp://pdsrv.io:80/wsxqaz1/wsxqaz1/10259
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE 6 HD
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/10259
 #EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE 6 HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/11550
 #EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE 7 HD+
@@ -1976,39 +1992,6 @@ https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 //Canais Abertos
 
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Canais" , RedeTV!
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Canais" , RedeTV! 4K
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/33751
-
-#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais" , Globo RJ HD
-http://pdsrv.io:80/wilson02/wilson02/6113
-#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais" , Globo RJ HD+
-http://pdsrv.io:80/wilson02/wilson02/34526
-#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais" , Globo 4K
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/33749
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Canais" , RedeTV!
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Canais" , RedeTV! 4K
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/33751
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais" , Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais" , Band HD+
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/61314
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canais" , Band 4K
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/33747
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canais" , SBT - TV Serra Dourada - (GO)
-https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/sbt.jpg" group-title="Canais" , SBT
-http://pdsrv.io:80/wilson02/wilson02/60887
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/sbt.jpg" group-title="Canais" , SBT 4K
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/33757
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais" , Record RJ
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canais" , Record 4K
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/33750
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Canais" , Rede Brasil SP
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
