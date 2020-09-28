@@ -1,14 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,CANAL DO BOI SD²
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eS23XjYy4WU/maxresdefault.jpg" group-title="Canais",CANAL DO BOI SD²
 http://pdsrv.io:80/bruno1/bruno1/62845
 
-#EXTINF:-1 , A Fazenda 2020 SD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eS23XjYy4WU/maxresdefault.jpg" group-title="Canais", A Fazenda 2020 SD
 http://srvcliente.me:80/gege123/gege123/27083
-#EXTINF:-1 , A Fazenda 2020 HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eS23XjYy4WU/maxresdefault.jpg" group-title="Canais", A Fazenda 2020 HD
 http://srvcliente.me:80/gege123/gege123/27084
-#EXTINF:-1 , A Fazenda 2020 HD+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eS23XjYy4WU/maxresdefault.jpg" group-title="Canais", A Fazenda 2020 HD+
 http://srvcliente.me:80/gege123/gege123/27085
 
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cartoon.jpg" group-title="Canais" , Cartoon Network HD
