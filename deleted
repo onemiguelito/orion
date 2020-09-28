@@ -1,14 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,0 A Fazenda 2020 HD
+#EXTINF:-1 ,CANAL DO BOI SD²
+http://pdsrv.io:80/bruno1/bruno1/62845
+
+#EXTINF:-1 , A Fazenda 2020 SD
 http://srvcliente.me:80/gege123/gege123/27083
-#EXTINF:-1 ,0 A Fazenda 2020 HD*
+#EXTINF:-1 , A Fazenda 2020 HD
 http://srvcliente.me:80/gege123/gege123/27084
-#EXTINF:-1 ,0 A Fazenda 2020 HD+
+#EXTINF:-1 , A Fazenda 2020 HD+
 http://srvcliente.me:80/gege123/gege123/27085
-#EXTINF:-1 ,A FAZENDA 12 FHD 
-http://pdsrv.io:80/bruno1/bruno1/68169
 
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cartoon.jpg" group-title="Canais" , Cartoon Network HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/7817
@@ -99,9 +100,6 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/4310
 http://pdsrv.io:80/wilson02/wilson02/61129
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/772882243870228480/XAVq66y0.jpg" group-title="Canais",Gloob
-http://randomserver.site:2086/crystal/12345/92686
-
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/comedycentral.jpg" group-title="Canais" , Comedy Central SD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/4391
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/comedycentral.jpg" group-title="Canais" , Comedy Central HD
@@ -125,8 +123,6 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/4313
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tlc.jpg" group-title="Canais" , TLC HD
 http://pdsrv.io:80/wilson02/wilson02/24786
 
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/tlc.jpg" group-title="Canais" , TLC² HD
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/13196
 
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6959
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/logo_foodnetwork.png" group-title="Canais" , FOOD NETWORK HD
@@ -142,13 +138,14 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/13201
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/multishow.png" group-title="Canais",MULTISHOW 4K
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/33760
 
-#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/foxsports1.jpg" group-title="Canais" , FOX SPORTS
-https://streaming.belugacdn.link/a/hls1/foxsports1.m3u8?expires=1599339075&token=0a58dd3a02176acb28eae9e58d8f6b57
+
+#EXTINF:-1 ,FOX SPORTS SD
+http://pdsrv.io:80/bruno1/bruno1/63146
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/foxsports1.jpg" group-title="Canais",FOX SPORTS HD
+http://pdsrv.io:80/bruno1/bruno1/63139
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/foxsports1.jpg" group-title="Canais" , FOX SPORTS 4K
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/63144
 
-#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="Canais" , FOX SPORTS 2 HD
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/6117
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="Canais" , FOX SPORTS 2 HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/8151
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Fox_sports_2.png" group-title="Canais" , FOX SPORTS 2 4K
@@ -227,7 +224,9 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/33767
 
 
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix
-ttps://streaming.belugacdn.link/a/hls1/megapix.m3u8?expires=1599346928&token=
+http://pdsrv.io:80/bruno1/bruno1/4354
+#EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix
+http://pdsrv.io:80/bruno1/bruno1/6101
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/8146
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/megapix.jpg" group-title="Canais" , Megapix 4K
@@ -246,7 +245,7 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/6961
 http://pdsrv.io:80/wilson02/wilson02/13202
 
 #EXTINF:-1 group-title="Canais" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/GNT_HD.jpg" ,GNT
-http://randomserver.site:2086/crystal/12345/92685
+
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png", A&E HD
 http://pdsrv.io:80/wilson02/wilson02/8139
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png", A&E HD+
@@ -625,6 +624,11 @@ http://randomserver.site:2086/crystal/12345/92673
 http://randomserver.site:2086/crystal/12345/92672
 #EXTINF:-1 group-title="Canais" tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png",Multishow
 http://ok2.se:8000/gino123/gino123/94680
+
+#EXTINF:-1 group-title="Canais" tvg-logo="https://pbs.twimg.com/profile_images/1278334074856312834/9Kfku0xb_400x400.jpg",MTV SD
+http://pdsrv.io:80/bruno1/bruno1/61174
+#EXTINF:-1 group-title="Canais" tvg-logo="https://pbs.twimg.com/profile_images/1278334074856312834/9Kfku0xb_400x400.jpg",MTV HD
+http://pdsrv.io:80/bruno1/bruno1/7524
 
 #EXTINF:-1 group-title="Canais" tvg-logo="https://i2.wp.com/oportaln10.com.br/entretenimento/wp-content/uploads/2017/04/Nat-Geo.jpg",NAT GEO
 http://randomserver.site:2086/crystal/12345/92668
