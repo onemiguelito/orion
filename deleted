@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eS23XjYy4WU/maxresdefault.jpg" group-title="Canais",CANAL DO BOI SD²
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eS23XjYy4WU/maxresdefault.jpg" group-title="Canais", CANAL DO BOI
 http://pdsrv.io:80/bruno1/bruno1/62845
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/eS23XjYy4WU/maxresdefault.jpg" group-title="Canais", A Fazenda 2020 SD
