@@ -484,46 +484,6 @@ http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17049
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",PRIVATE LA14
 http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17052
 
-#EXTINF:-1 group-title="+18 Canais Exclusive",A1
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17004
-#EXTINF:-1 group-title="+18 Canais Exclusive",A2
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17005
-#EXTINF:-1 group-title="+18 Canais Exclusive",A3
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17006
-#EXTINF:-1 group-title="+18 Canais Exclusive",A5
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17008
-#EXTINF:-1 group-title="+18 Canais Exclusive",A6
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17009
-#EXTINF:-1 group-title="+18 Canais Exclusive",B1
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17010
-#EXTINF:-1 group-title="+18 Canais Exclusive",B2
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17011
-#EXTINF:-1 group-title="+18 Canais Exclusive",B3
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17012
-#EXTINF:-1 group-title="+18 Canais Exclusive",B4
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17013
-#EXTINF:-1 group-title="+18 Canais Exclusive",B6
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17015
-
-#EXTINF:-1 group-title="+18 Canais Exclusive",EROX HD
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17031
-#EXTINF:-1 group-title="+18 Canais Exclusive",EVIL ANGEL HD
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17032
-#EXTINF:-1 group-title="+18 Canais Exclusive",HOT
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17033
-#EXTINF:-1 group-title="+18 Canais Exclusive",HUSTLER TV
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17034
-#EXTINF:-1 group-title="+18 Canais Exclusive",HUSTLER
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17035
-#EXTINF:-1 group-title="+18 Canais Exclusive",Hustler 1
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17036
-#EXTINF:-1 group-title="+18 Canais Exclusive",Hustler 2
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17037
-
-#EXTINF:-1 group-title="+18 Canais Exclusive",PASSIE XXX SD
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17039
-#EXTINF:-1 group-title="+18 Canais Exclusive",PASSIE XXX HD
-http://zuihaode.site:25461/paul2104/ZwbCwFNsvE/17040
 
 #EXTINF:-1 group-title="SESSÃO PROIBIDA +18" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS
 http://pdsrv.io:80/wilson02/wilson02/35594
@@ -709,20 +669,23 @@ https://www.ast.tv/stream/2/normal.m3u8
 https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 group-title="+18 Canais Exclusive",Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 group-title="+18 Canais Exclusive",Miami TV Latino
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-
 
 
 tvg-logo="" group-title="Canais"
 #EXTINF:-1 tvg-logo="https://www.wallpaperup.com/uploads/wallpapers/2013/07/12/117398/00621faac041f47b83422dcf96814abe-700.jpg" group-title="Canais" ,History Channel HD
-http://randomserver.site:2086/crystal/12345/92677
+http://canaishd.servidor.tv:8080/lori/12345/1459
 #EXTINF:-1 tvg-logo="https://www.wallpaperup.com/uploads/wallpapers/2013/07/12/117398/00621faac041f47b83422dcf96814abe-700.jpg" group-title="Canais" ,History Channel HD+
-http://randomserver.site:2086/crystal/12345/92732
+http://canaishd.servidor.tv:8080/lori/12345/95
 
-#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/05/Produ%C3%A7%C3%A3o-local-Anatomia-do-Crime-estreia-no-Investiga%C3%A7%C3%A3o-Discovery.jpg" group-title="Canais",Investigacao Discovery
-http://randomserver.site:2086/crystal/12345/92676
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41B9xWJ9sjL.png" group-title="Canais",Lifetime
+#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/05/Produ%C3%A7%C3%A3o-local-Anatomia-do-Crime-estreia-no-Investiga%C3%A7%C3%A3o-Discovery.jpg" group-title="Canais",Investigacao Discovery HD
+http://srvcliente.me:80/gege123/gege123/326
+#EXTINF:-1 tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2017/05/Produ%C3%A7%C3%A3o-local-Anatomia-do-Crime-estreia-no-Investiga%C3%A7%C3%A3o-Discovery.jpg" group-title="Canais",Investigacao Discovery HD+
+http://srvcliente.me:80/gege123/gege123/333
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41B9xWJ9sjL.png" group-title="Canais",Lifetime SD
+http://pdsrv.io:80/bruno1/bruno1/7876
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41B9xWJ9sjL.png" group-title="Canais",Lifetime HD
+http://pdsrv.io:80/bruno1/bruno1/7525
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2F1vmbIsCJU/hqdefault.jpg" group-title="Canais",MAX PRIME
 http://randomserver.site:2086/crystal/12345/92673
@@ -784,7 +747,7 @@ http://pdsrv.io:80/wilson02/wilson02/11533
 http://pdsrv.io:80/wilson02/wilson02/61231
 
 #EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater SD
-http://pdsrv.io:80/bruno1/bruno1/61077
+http://pdsrv.io:80/bruno1/bruno1/10289
 #EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/6130
 #EXTINF:-1 tvg-name="DISCOVERY THEATER" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/l7230-discovery-hd-theater-logo-96334.png" group-title="Canais", Discovery Theater HD+
@@ -795,7 +758,7 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/4386
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", Discovery Turbo HD
 http://pdsrv.io:80/bruno1/bruno1/6877
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Turbo.png" group-title="Canais", Discovery Turbo HD+
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/11531
+http://srvcliente.me:80/gege123/gege123/23148
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png", Discovery Science HD
 http://pdsrv.io:80/wilson02/wilson02/7861
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Discovery_Science.png", Discovery Science HD+
@@ -1274,6 +1237,8 @@ http://pdsrv.io:80/movie/wsxqaz1/wsxqaz1/43192.mp4
 
 #EXTINF:-1 group-title="ANIME - FILMES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7NeAtW9lS4XOoXkf8UL1pzwfsA.jpg", Dragon Ball Super: Broly (2018)
 http://pdsrv.io:80/movie/wilson02/wilson02/36461.mp4
+#EXTINF:-1 group-title="ANIME - FILMES" tvg-logo="https://animenew.com.br/wp-content/uploads/2014/03/cdz-lenda-do-Santu%C3%A1rio.jpg",Os Cavaleiros do Zodíaco: A Lenda do Santuário
+http://canaishd.servidor.tv:8080/movie/lori/12345/32444.mp4
 
 #EXTINF:-1 group-title="EMPREENDEDORISMO - FILMES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YpHj6aV1yKWP20hKj1KUiLaIbi.jpg", Fome de Poder (2016)
 http://pdsrv.io:80/movie/wilson02/wilson02/36467.mp4
