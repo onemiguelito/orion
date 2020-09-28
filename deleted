@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+#EXTINF:-1 ,0 A Fazenda 2020 HD
+http://srvcliente.me:80/gege123/gege123/27083
+#EXTINF:-1 ,0 A Fazenda 2020 HD*
+http://srvcliente.me:80/gege123/gege123/27084
+#EXTINF:-1 ,0 A Fazenda 2020 HD+
+http://srvcliente.me:80/gege123/gege123/27085
+#EXTINF:-1 ,A FAZENDA 12 FHD 
+http://pdsrv.io:80/bruno1/bruno1/68169
+
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cartoon.jpg" group-title="Canais" , Cartoon Network HD
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/7817
 #EXTINF:-1 tvg-logo="https://redecanaistv.com/imgs-videos/Canais/cartoon.jpg" group-title="Canais" , Cartoon Network HD+
@@ -393,8 +403,12 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/11550
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/10258
 #EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE 7 HD+
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/11549
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE CLUBES SD¹
+http://pdsrv.io:80/bruno1/bruno1/4333
+#EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE CLUBES HD¹
+http://pdsrv.io:80/bruno1/bruno1/6089
 #EXTINF:-1 group-title="Canais Exclusive" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/premiere.png", PREMIERE CLUBES 4K 
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/33753
+http://pdsrv.io:80/bruno1/bruno1/61045
 
 #EXTINF:-1 group-title="+18 Canais Exclusive" tvg-logo="https://image.flaticon.com/icons/png/128/1666/1666720.png",XXX BRAZZERS EUROPE
 http://pdsrv.io:80/wilson02/wilson02/35604
@@ -683,12 +697,37 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/61147
 
 //24HORAS
 
-EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", As Meninas Superpoderosas 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34865
-EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", BOB ESPONJA 24HRS
-http://pdsrv.io:80/wilson02/wilson02/34867
+#EXTINF:-1 tvg-name="OS FLINTSTONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",CAVERNA DO DRAGAO
+http://pdsrv.io:80/bruno1/bruno1/60786
+#EXTINF:-1 tvg-name="OS FLINTSTONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",OS FLINTSTONES
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/34910
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",Jaspion 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34895
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",JIRAYA O Incrível Ninja 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34896
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",24H CHANGEMAN
+http://pdsrv.io:80/bruno1/bruno1/60783
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",PERNALONGA 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34915
+
+#EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",Thundercats 24HRS
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/34929
+#EXTINF:-1 tvg-id="" tvg-name="TRAPALHÕES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS Classicos",TRAPALHÕES 24Hors
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/60728
+
+
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H POLÍCIA 24 HORAS
+http://pdsrv.io:80/bruno1/bruno1/62244
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",Mr.Bean 24HRS¹
+http://pdsrv.io:80/bruno1/bruno1/34902
 EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", A Grande Familia 24HRS
 http://pdsrv.io:80/wilson02/wilson02/34942
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",THE BIG BANG THEORY T01 Á T05
+http://pdsrv.io:80/bruno1/bruno1/63308
+#EXTINF:-1 tvg-name="Dois Homens e Meio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Dois Homens e Meio
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/34878
+#EXTINF:-1 tvg-name="Dois Homens e Meio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",24H DOIS HOMENS E MEIO T01 A 06
+http://pdsrv.io:80/bruno1/bruno1/68363
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", 24H OS SIMPSON 2000/2010
 http://pdsrv.io:80/wilson02/wilson02/60785
 #EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",OS SIMPSONS 24HRS
@@ -697,52 +736,66 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/34911
 http://pdsrv.io:80/wilson02/wilson02/34931
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Todo Mundo Odeia O Chris
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715099
+
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Chaves
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715110
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H CHAVES TEMPORADA 01 E 02
+http://pdsrv.io:80/bruno1/bruno1/63404
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H CHAVES TEMPORADA 03 E 04
+http://pdsrv.io:80/bruno1/bruno1/63405
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H CHAVES TEMPORADA 05 E 06
+http://pdsrv.io:80/bruno1/bruno1/63406
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H CHAVES TEMPORADA 07
+http://pdsrv.io:80/bruno1/bruno1/63407
+
 #EXTINF:-1 tvg-name="Xena 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Xena
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34938
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",NARUTO 24HRS
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",NARUTO CLASSICO
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34903
-#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Naruto
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", Naruto Classico
 http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/715098
 #EXTINF:-1 tvg-name="AVATAR A LENDA DE KORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",AVATAR A LENDA DE KORA
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/58591
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL 24HRS
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/34880
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL SUPER 24HRS
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/34881
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z 24HRS¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL Z 24HRS¹
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/34882
-#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Dois Homens e Meio 24HRS
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/34878
-#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", AS AVENTURAS DE JACKIE CHAN
-http://lista.titanuhd.top:8880/tata1234/tata1234/4107
-#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H As Aventuras De Jackie Chan
-http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/717108
-#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H A Pantera Cor De Rosa
-http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755668
-#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Yugioh Clássico
-http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755672
-#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Super Choque 24HRS
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/34947
-#EXTINF:-1 tvg-name="Superman 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Superman 24HRS
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/34927
+#EXTINF:-1  tvg-name="AVATAR A LENDA DE KORA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",AVATAR: A Lenda De Kora
+http://pdsrv.io:80/bruno1/bruno1/58591
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://i.pinimg.com/originals/ce/27/87/ce27870499a90e05363c91afe6b04aed.png", Avatar - Lenda de Ang
 http://lista.titanuhd.top:8880/tata1234/tata1234/476
 #EXTINF:-1 tvg-name="OS CAVALEIROS DO ZODIACO" tvg-logo="https://i.ibb.co/XWnRVMS/AAAABXOCbya6-Yl-WMXZgw4l-G4-SJnlce4-Itcy-J-w-Viw4-Oxz-Fv-NSYQj6-HY-8-Na-TRO-ne-S0-F9-XNMMd-S9-UTLDf.png" group-title="CANAIS 24HRS",OS CAVALEIROS DO ZODIACO
 http://pdsrv.io:80/sara2020/sara2020/34909
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/34880
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL Z
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/34882
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",DRAGON BALL SUPER
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/34881
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",POKEMON 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34919
+#EXTINF:-1 tvg-id=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",YU-YU-Hakusho 24HRS
+http://pdsrv.io:80/bruno1/bruno1/63148
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H Yugioh Clássico
+http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755672
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",YU-GI-OH 24HRS
+http://pdsrv.io:80/bruno1/bruno1/63147
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", AS AVENTURAS DE JACKIE CHAN
+http://lista.titanuhd.top:8880/tata1234/tata1234/4107
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H As Aventuras De Jackie Chan
+http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/717108
+
+#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Super Choque 24HRS
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/34947
+
+#EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG",24H A Pantera Cor De Rosa
+http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755668
+#EXTINF:-1 tvg-id="" tvg-name="Super Choque 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Super Choque 24HRS
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/34947
+#EXTINF:-1 tvg-name="Superman 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Superman 24HRS
+http://pdsrv.io:80/wsxqaz1/wsxqaz1/34927
 #EXTINF:-1 tvg-name="O MASKARA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",O MASKARA 24HRS
 http://pdsrv.io:80/sara2020/sara2020/34907
 #EXTINF:-1 tvg-name="O SHOW DO GARFIELD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",O SHOW DO GARFIELD
 http://pdsrv.io:80/sara2020/sara2020/60720
-#EXTINF:-1 tvg-name="OS FLINTSTONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",OS FLINTSTONES
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/34910
 #EXTINF:-1 tvg-name="FUTURAMA" tvg-logo="https://img.quizur.com/f/img5e9d39c3ca5034.14591752.jpeg?lastEdited=1587362397" group-title="CANAIS 24HRS", FUTURAMA
 http://lista.titanuhd.top:8880/tata1234/tata1234/470
-#EXTINF:-1 tvg-id="" tvg-name="Thundercats" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",Thundercats 24HRS
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/34929
-#EXTINF:-1 tvg-id="" tvg-name="TRAPALHÕES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="CANAIS 24HRS",TRAPALHÕES 24Hors
-http://pdsrv.io:80/wsxqaz1/wsxqaz1/60728
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", iCarly
 http://lista.titanuhd.top:8880/tata1234/tata1234/473
 #EXTINF:-1 group-title="CANAIS 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", Kenan e Kel
@@ -751,6 +804,10 @@ http://lista.titanuhd.top:8880/tata1234/tata1234/435
 
 #EXTINF:-1 tvg-name="TARTARUGAS NINJAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",TARTARUGAS NINJAS
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34928
+EXTINF:-1 group-title="24HRS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", As Meninas Superpoderosas 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34865
+EXTINF:-1 group-title="24HRS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG", BOB ESPONJA 24HRS
+http://pdsrv.io:80/wilson02/wilson02/34867
 #EXTINF:-1 tvg-name="Peppa Pig" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Peppa Pig
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34914
 #EXTINF:-1 tvg-id="" tvg-name="Phineas e Ferb 24HRS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Phineas e Ferb
@@ -772,6 +829,20 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/34920
 #EXTINF:-1 tvg-name="Steven Universe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Steven Universe
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/34926
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T01
+http://pdsrv.io:80/bruno1/bruno1/60779
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T02
+http://pdsrv.io:80/bruno1/bruno1/60780
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T03
+http://pdsrv.io:80/bruno1/bruno1/60781
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",24H PATRULHA CANINA T04
+http://pdsrv.io:80/bruno1/bruno1/60782
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Phineas e Ferb 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34916
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",PICA PAU 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34917
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/CANAL_24HTVN.PNG" group-title="24HRS KIDS",Pink-e-Cerebro 24HRS
+http://pdsrv.io:80/bruno1/bruno1/34918
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="Canais Noticias" , France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
@@ -803,12 +874,19 @@ http://pdsrv.io:80/wsxqaz1/wsxqaz1/33751
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/36882e29bc7a31b643af08a0f61e23c3.jpg" group-title="Canais",ANIME LOVING
 http://animeloving.net/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais" , Globo RJ HD
-http://pdsrv.io:80/wilson02/wilson02/6113
-#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais" , Globo RJ HD+
-http://pdsrv.io:80/wilson02/wilson02/34526
+
+#EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais" , GLOBO SP HD
+http://pdsrv.io:80/bruno1/bruno1/62385
+#EXTINF:-1 ,0 Globo RJ HD
+http://srvcliente.me:80/gege123/gege123/28
+#EXTINF:-1 ,0 Globo RJ HD+
+http://srvcliente.me:80/gege123/gege123/44
 #EXTINF:-1 tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="Canais" , Globo 4K
 http://pdsrv.io:80/wsxqaz1/wsxqaz1/33749
+#EXTINF:-1 ,0 Globo RJ DIGITAL
+http://srvcliente.me:80/gege123/gege123/7
+#EXTINF:-1 ,0 Globo RJ DIGITAL*
+http://srvcliente.me:80/gege123/gege123/2958
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Canais" , RedeTV!
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/master.m3u8
