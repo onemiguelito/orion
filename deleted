@@ -204,38 +204,59 @@ http://pdsrv.io:80/wilson02/wilson02/47746
 http://pdsrv.io:80/wilson02/wilson02/6076
 #EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/telecinepremium.jpg",Telecine TOUCH HD+
 http://pdsrv.io:80/wilson02/wilson02/25016
+
+
+// HBO Atualizado 15022020
+
 #EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo.jpg",HBO HD
-http://pdsrv.io:80/wilson02/wilson02/6108
+http://puhd.host:80/HenryAugustoEua/jsjshsb/26425
 #EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo.jpg",HBO HD+
-http://pdsrv.io:80/wilson02/wilson02/11566
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14129
 #EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo.jpg",HBO 4K
-http://pdsrv.io:80/wilson02/wilson02/47745
-#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo2.jpg",HBO 2
-http://pdsrv.io:80/wilson02/wilson02/6110
+http://puhd.host:80/HenryAugustoEua/jsjshsb/9081
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo2.jpg",HBO 2 HD
+http://puhd.host:80/HenryAugustoEua/jsjshsb/26426
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo2.jpg",HBO 2 HD+
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14135
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbo2.jpg",HBO 2 4K
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14130
+
 #EXTINF:-1 group-title="Canais" tvg-logo="https://guiadefilmes.com.br//static/canais/1585602694_hbo_mundi.png",HBO Mundi HD
-http://pdsrv.io:80/wilson02/wilson02/10266
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14186
 #EXTINF:-1 group-title="Canais" tvg-logo="https://guiadefilmes.com.br//static/canais/1585602694_hbo_mundi.png",HBO Mundi HD+
-http://pdsrv.io:80/wilson02/wilson02/61209
-#EXTINF:-1 group-title="Canais" tvg-logo="https://guiadefilmes.com.br//static/canais/1585602694_hbo_mundi.png",HBO Mundi LEG HD+
-http://pdsrv.io:80/wilson02/wilson02/58501
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14183
+#EXTINF:-1 group-title="Canais" tvg-logo="https://guiadefilmes.com.br//static/canais/1585602694_hbo_mundi.png",HBO Mundi HD+
+http://puhd.host:80/HenryAugustoEua/jsjshsb/9049
 #EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg",HBO Pop HD
-http://pdsrv.io:80/wilson02/wilson02/10265
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14187
 #EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg",HBO Pop HD+
-http://pdsrv.io:80/wilson02/wilson02/25015
-#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg",HBO Pop LEG HD+
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14184
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hbopop.jpg",HBO Pop LEG
 http://pdsrv.io:80/wilson02/wilson02/58503
 #EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboplus.jpg",HBO PLUS HD
-http://pdsrv.io:80/wilson02/wilson02/60980
+http://puhd.host:80/HenryAugustoEua/jsjshsb/26428
 #EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboplus.jpg",HBO PLUS HD+
-http://pdsrv.io:80/wilson02/wilson02/13190
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14132
 #EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboplus.jpg",HBO PLUS LEG HD+
 http://pdsrv.io:80/wilson02/wilson02/47753
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO FAMILY SD
+http://puhd.host:80/HenryAugustoEua/jsjshsb/26427
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO FAMILY HD
-http://pdsrv.io:80/wilson02/wilson02/6109
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14136
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO FAMILY HD+
-http://pdsrv.io:80/wilson02/wilson02/11568
-#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboxtreme.jpg",HBO Xtreme
-http://pdsrv.io:80/wilson02/wilson02/60986
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14131
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboxtreme.jpg",HBO Xtreme HD
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14188
+#EXTINF:-1 group-title="Canais" tvg-logo="https://redecanaistv.com/imgs-videos/Canais/hboxtreme.jpg",HBO Xtreme HD+
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14185
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO SIGNATURE HD
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14138
+#EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/HBO_Family_Latin_Atlansia-1.png",HBO SIGNATURE HD+
+http://puhd.host:80/HenryAugustoEua/jsjshsb/14133
+
+// Fim da atualização
+
+
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",PARAMOUNT SD
 http://pdsrv.io:80/wilson02/wilson02/6946
 #EXTINF:-1 group-title="Canais" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/paramount_channel.png",PARAMOUNT HD
@@ -1561,8 +1582,6 @@ http://puhd.host:80/HenryAugustoEua/jsjshsb/28230
 http://puhd.host:80/HenryAugustoEua/jsjshsb/28231
 #EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/18%2B.png" group-title="XXX: ADULTOS",XXX: VIVID RED
 http://puhd.host:80/HenryAugustoEua/jsjshsb/28235
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRASILEIRINHAS: A CAMPEA DO ANAL" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/BRASILEIRINHAS.png" group-title="XXX: ADULTOS",XXX: BRASILEIRINHAS: A CAMPEA DO ANAL
-http://puhd.host:80/HenryAugustoEua/jsjshsb/28239
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/BRASILEIRINHAS.png" group-title="XXX: ADULTOS",XXX: BRASILEIRINHAS: AGORA E HORA DAS PODEROSAS
 http://puhd.host:80/HenryAugustoEua/jsjshsb/28240
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BRASILEIRINHAS: AMIGAS DA MINHA IRMA" tvg-logo="http://primeuhd.com/LOGOS/Logo%20Adulto/BRASILEIRINHAS.png" group-title="XXX: ADULTOS",XXX: BRASILEIRINHAS: AMIGAS DA MINHA IRMA
