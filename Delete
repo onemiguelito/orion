@@ -1,1365 +1,627 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD¹" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES ",A&E FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272181
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD¹" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES ",A&E HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272182
-#EXTINF:-1 tvg-id="" tvg-name="A&E HD²" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES ",A&E HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304239
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD¹" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES ",A&E SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272183
-#EXTINF:-1 tvg-id="" tvg-name="A&E SD²" tvg-logo="https://i.imgur.com/UW8TbUl.png" group-title="CANAIS | FILMES E SÉRIES ",A&E SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304240
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD²" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="CANAIS | FILMES E SÉRIES ",AMC HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304241
-#EXTINF:-1 tvg-id="" tvg-name="AMC SD²" tvg-logo="https://i.imgur.com/tk3gwYl.png" group-title="CANAIS | FILMES E SÉRIES ",AMC SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304242
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD¹" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",Animal Planet FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272184
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET FHD²" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304529
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD¹" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",Animal Planet HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272185
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD²" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304243
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD¹" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",Animal Planet SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272186
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET SD²" tvg-logo="https://i.imgur.com/8ODTjoY.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304244
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="https://i.imgur.com/cFpIh3Z.png" group-title="CANAIS | VARIEDADES",Arte 1 FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272187
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="https://i.imgur.com/cFpIh3Z.png" group-title="CANAIS | VARIEDADES",Arte 1 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272188
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 HD²" tvg-logo="https://i.imgur.com/cFpIh3Z.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304245
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 SD" tvg-logo="https://i.imgur.com/cFpIh3Z.png" group-title="CANAIS | VARIEDADES",Arte 1 SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272189
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1 SD²" tvg-logo="https://i.imgur.com/cFpIh3Z.png" group-title="CANAIS | VARIEDADES",ARTE 1 SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304246
-#EXTINF:-1 tvg-id="" tvg-name="AXN  FHD²" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES ",AXN  FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304530
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AXN FHD¹" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES ",AXN FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272190
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD¹" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES ",AXN HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272191
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD²" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES ",AXN HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304247
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD¹" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES ",AXN SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272192
-#EXTINF:-1 tvg-id="" tvg-name="AXN SD²" tvg-logo="https://i.imgur.com/QkUHYAo.png" group-title="CANAIS | FILMES E SÉRIES ",AXN SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304248
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby FHD" tvg-logo="https://i.imgur.com/pMlWvSe.png" group-title="CANAIS | INFANTIS ",Baby FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272193
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby HD" tvg-logo="https://i.imgur.com/pMlWvSe.png" group-title="CANAIS | INFANTIS ",Baby HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272194
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV HD²" tvg-logo="https://i.imgur.com/pMlWvSe.png" group-title="CANAIS | INFANTIS ",BABY TV HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304249
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="Baby TV SD" tvg-logo="https://i.imgur.com/pMlWvSe.png" group-title="CANAIS | INFANTIS ",Baby TV SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272195
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD²" tvg-logo="https://i.imgur.com/pMlWvSe.png" group-title="CANAIS | INFANTIS ",BABY TV SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304250
-#EXTINF:-1 tvg-id="" tvg-name="BAND  FHD²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | BAND",BAND  FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304531
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS SD²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | BAND",BAND CAMPINAS SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304251
-#EXTINF:-1 tvg-id="Band" tvg-name="Band FHD¹" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | BAND",Band FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272196
-#EXTINF:-1 tvg-id="Band" tvg-name="Band HD¹" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | BAND",Band HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272197
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News FHD" tvg-logo="https://i.imgur.com/fNKWE0B.png" group-title="CANAIS | NOTÍCIAS",Band News FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272198
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News HD" tvg-logo="https://i.imgur.com/fNKWE0B.png" group-title="CANAIS | NOTÍCIAS",Band News HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272199
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS HD²" tvg-logo="https://i.imgur.com/fNKWE0B.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304252
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News SD" tvg-logo="https://i.imgur.com/fNKWE0B.png" group-title="CANAIS | NOTÍCIAS",Band News SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272200
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS SD²" tvg-logo="https://i.imgur.com/fNKWE0B.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304253
-#EXTINF:-1 tvg-id="" tvg-name="BAND NORDESTE SD²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | BAND",BAND NORDESTE SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304254
-#EXTINF:-1 tvg-id="" tvg-name="Band RJ HD²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | BAND",Band RJ HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304532
-#EXTINF:-1 tvg-id="" tvg-name="Band RJ SD²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | BAND",Band RJ SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304533
-#EXTINF:-1 tvg-id="Band" tvg-name="Band SD¹" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | BAND",Band SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272201
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | BAND",BAND SP HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304255
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP SD²" tvg-logo="https://i.imgur.com/CafUleO.png" group-title="CANAIS | BAND",BAND SP SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304256
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports FHD¹" tvg-logo="https://i.imgur.com/87Zhmke.png" group-title="CANAIS | ESPORTES",Band Sports FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272202
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports HD¹" tvg-logo="https://i.imgur.com/87Zhmke.png" group-title="CANAIS | ESPORTES",Band Sports HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272203
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS HD²" tvg-logo="https://i.imgur.com/87Zhmke.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304257
-#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="Band Sports SD¹" tvg-logo="https://i.imgur.com/87Zhmke.png" group-title="CANAIS | ESPORTES",Band Sports SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272204
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS SD²" tvg-logo="https://i.imgur.com/87Zhmke.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304258
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="https://i.imgur.com/aWjFn1q.png" group-title="CANAIS | VARIEDADES",BIS FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272205
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/aWjFn1q.png" group-title="CANAIS | VARIEDADES",BIS HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272206
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD²" tvg-logo="https://i.imgur.com/aWjFn1q.png" group-title="CANAIS | VARIEDADES",BIS HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304259
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/aWjFn1q.png" group-title="CANAIS | VARIEDADES",BIS SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272207
-#EXTINF:-1 tvg-id="" tvg-name="BIS SD²" tvg-logo="https://i.imgur.com/aWjFn1q.png" group-title="CANAIS | VARIEDADES",BIS SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304260
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang FHD" tvg-logo="https://i.imgur.com/8OMJoHy.png" group-title="CANAIS | INFANTIS ",Boomerang FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272208
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD" tvg-logo="https://i.imgur.com/8OMJoHy.png" group-title="CANAIS | INFANTIS ",Boomerang HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272209
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD²" tvg-logo="https://i.imgur.com/8OMJoHy.png" group-title="CANAIS | INFANTIS ",BOOMERANG HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304261
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang SD" tvg-logo="https://i.imgur.com/8OMJoHy.png" group-title="CANAIS | INFANTIS ",Boomerang SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272210
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG SD²" tvg-logo="https://i.imgur.com/8OMJoHy.png" group-title="CANAIS | INFANTIS ",BOOMERANG SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304262
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil FHD" tvg-logo="https://i.imgur.com/NSXe1ED.png" group-title="CANAIS | VARIEDADES",Canal Brasil FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272211
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://i.imgur.com/NSXe1ED.png" group-title="CANAIS | VARIEDADES",Canal Brasil HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272212
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil SD" tvg-logo="https://i.imgur.com/NSXe1ED.png" group-title="CANAIS | VARIEDADES",Canal Brasil SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272213
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD²" tvg-logo="https://i.imgur.com/NSXe1ED.png" group-title="CANAIS | VARIEDADES",CANAL BRASIL SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304263
-#EXTINF:-1 tvg-id="" tvg-name="Canção Nova SD²" tvg-logo="https://i.imgur.com/pkttYOs.png" group-title="CANAIS | RELIGIOSOS",Canção Nova SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304264
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | INFANTIS ",Cartoon Network FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272699
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD²" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | INFANTIS ",Cartoon Network FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304534
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | INFANTIS ",Cartoon Network HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272698
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK HD²" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | INFANTIS ",CARTOON NETWORK HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304265
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | INFANTIS ",Cartoon Network SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272214
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK SD²" tvg-logo="https://i.imgur.com/XwwQm2i.png" group-title="CANAIS | INFANTIS ",CARTOON NETWORK SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304266
-#EXTINF:-1 tvg-id="" tvg-name="CHD TV HD¹" tvg-logo="https://i.ibb.co/tBPWd2X/CHDTV-LOGO.png" group-title="CANAIS | REGIONAIS",CHD TV HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/274578
-#EXTINF:-1 tvg-id="" tvg-name="Chef TV FHD" tvg-logo="https://www.cheftv.com.br/wp-content/uploads/2020/08/logotipo.png" group-title="CANAIS | VARIEDADES",Chef TV FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272215
-#EXTINF:-1 tvg-id="" tvg-name="Chef TV HD" tvg-logo="https://www.cheftv.com.br/wp-content/uploads/2020/08/logotipo.png" group-title="CANAIS | VARIEDADES",Chef TV HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272216
-#EXTINF:-1 tvg-id="" tvg-name="Chef TV SD" tvg-logo="https://www.cheftv.com.br/wp-content/uploads/2020/08/logotipo.png" group-title="CANAIS | VARIEDADES",Chef TV SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272217
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01 (CH281)" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CINE | ONDEMAND",CINE SKY 01 (CH281)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304269
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02 (CH282)" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CINE | ONDEMAND",CINE SKY 02 (CH282)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304270
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03 (CH283)" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CINE | ONDEMAND",CINE SKY 03 (CH283)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304271
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04 (CH284)" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CINE | ONDEMAND",CINE SKY 04 (CH284)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304272
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05 (CH285)" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CINE | ONDEMAND",CINE SKY 05 (CH285)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304273
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06 (CH286)" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CINE | ONDEMAND",CINE SKY 06 (CH286)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304274
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07 (CH287)" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CINE | ONDEMAND",CINE SKY 07 (CH287)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304275
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08(CH288)" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CINE | ONDEMAND",CINE SKY 08(CH288)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304276
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09 (CH289)" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CINE | ONDEMAND",CINE SKY 09 (CH289)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304277
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 (CH290)" tvg-logo="https://i.imgur.com/coKcRXM.png" group-title="CINE | ONDEMAND",CINE SKY 10 (CH290)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304278
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD¹" tvg-logo="https://i.imgur.com/slhYDBu.png" group-title="CANAIS | FILMES E SÉRIES ",Cinemax FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272218
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD¹" tvg-logo="https://i.imgur.com/slhYDBu.png" group-title="CANAIS | FILMES E SÉRIES ",Cinemax HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272219
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD²" tvg-logo="https://i.imgur.com/slhYDBu.png" group-title="CANAIS | FILMES E SÉRIES ",CINEMAX HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304267
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD¹" tvg-logo="https://i.imgur.com/slhYDBu.png" group-title="CANAIS | FILMES E SÉRIES ",Cinemax SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272220
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX SD²" tvg-logo="https://i.imgur.com/slhYDBu.png" group-title="CANAIS | FILMES E SÉRIES ",CINEMAX SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304268
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil FHD" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="CANAIS | NOTÍCIAS",CNN Brasil FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272221
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN Brasil HD" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="CANAIS | NOTÍCIAS",CNN Brasil HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272222
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD²" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="CANAIS | NOTÍCIAS",CNN Brasil HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304535
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="Cnn Brasil SD" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="CANAIS | NOTÍCIAS",Cnn Brasil SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272676
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil SD²" tvg-logo="https://i.imgur.com/N2I2J1I.png" group-title="CANAIS | NOTÍCIAS",CNN Brasil SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304536
-#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN Espanhol FHD" tvg-logo="https://i.imgur.com/2gjugkH.png" group-title="CANAIS | NOTÍCIAS",CNN Espanhol FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272223
-#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN Espanhol HD" tvg-logo="https://i.imgur.com/2gjugkH.png" group-title="CANAIS | NOTÍCIAS",CNN Espanhol HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272224
-#EXTINF:-1 tvg-id="CNNEspanhol.br" tvg-name="CNN Espanhol SD" tvg-logo="https://i.imgur.com/2gjugkH.png" group-title="CANAIS | NOTÍCIAS",CNN Espanhol SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272225
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional FHD" tvg-logo="https://i.imgur.com/2gjugkH.png" group-title="CANAIS | NOTÍCIAS",CNN Internacional FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272226
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional HD" tvg-logo="https://i.imgur.com/2gjugkH.png" group-title="CANAIS | NOTÍCIAS",CNN Internacional HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272227
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN Internacional SD" tvg-logo="https://i.imgur.com/2gjugkH.png" group-title="CANAIS | NOTÍCIAS",CNN Internacional SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272228
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD¹" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | ESPORTES",Combate FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272229
-#EXTINF:-1 tvg-id="" tvg-name="Combate FHD²" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | ESPORTES",Combate FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304537
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD¹" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | ESPORTES",Combate HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272230
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE HD²" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | ESPORTES",COMBATE HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304279
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD¹" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | ESPORTES",Combate SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272231
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE SD²" tvg-logo="https://i.imgur.com/ME0RE9z.png" group-title="CANAIS | ESPORTES",COMBATE SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304280
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://i.imgur.com/PVnnMa5.png" group-title="CANAIS | VARIEDADES",Comedy Central FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272232
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://i.imgur.com/PVnnMa5.png" group-title="CANAIS | VARIEDADES",Comedy Central HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272233
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD²" tvg-logo="https://i.imgur.com/PVnnMa5.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304281
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://i.imgur.com/PVnnMa5.png" group-title="CANAIS | VARIEDADES",Comedy Central SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272234
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL SD²" tvg-logo="https://i.imgur.com/PVnnMa5.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304282
-#EXTINF:-1 tvg-id="CONMEBOL TV 1" tvg-name="Conmebol 1 FHD" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | PPV",Conmebol 1 FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272685
-#EXTINF:-1 tvg-id="CONMEBOL TV 2" tvg-name="Conmebol 2 FHD" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | PPV",Conmebol 2 FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272682
-#EXTINF:-1 tvg-id="CONMEBOL TV 3" tvg-name="Conmebol 3 FHD" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | PPV",Conmebol 3 FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272683
-#EXTINF:-1 tvg-id="CONMEBOL TV 4" tvg-name="Conmebol 4 FHD" tvg-logo="https://i.imgur.com/yCvPFk2.png" group-title="CANAIS | PPV",Conmebol 4 FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272684
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/CatarinenseA2020.png" group-title="CANAIS | PPV",COPA CATARINENSE
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/266211
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/CatarinenseA2020.png" group-title="CANAIS | PPV",COPA CATARINENSE
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272235
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/CatarinenseA2020.png" group-title="CANAIS | PPV",COPA CATARINENSE 2
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/266212
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/CatarinenseA2020.png" group-title="CANAIS | PPV",COPA CATARINENSE 2
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272236
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/CatarinenseA2020.png" group-title="CANAIS | PPV",COPA CATARINENSE 2 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272237
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 3" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/CatarinenseA2020.png" group-title="CANAIS | PPV",COPA CATARINENSE 3
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/266214
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE 4" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/CatarinenseA2020.png" group-title="CANAIS | PPV",COPA CATARINENSE 4
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/266216
-#EXTINF:-1 tvg-id="" tvg-name="COPA CATARINENSE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/CatarinenseA2020.png" group-title="CANAIS | PPV",COPA CATARINENSE HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272238
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/266219
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272239
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 1
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/271811
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 1 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="CANAIS | PPV",COPA DO NORDESTE 1 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304286
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 2
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/266220
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 2
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/271812
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 2 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272241
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 2 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272240
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 2 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="CANAIS | PPV",COPA DO NORDESTE 2 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304287
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 3
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/266222
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 3
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/271813
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 3
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272667
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 3 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272668
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 3 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="CANAIS | PPV",COPA DO NORDESTE 3 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304288
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 4
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/271814
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4 HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 4 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272671
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 4 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Copa_do_Nordeste.png/185px-Copa_do_Nordeste.png" group-title="CANAIS | PPV",COPA DO NORDESTE 4 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304289
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 5" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 5
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272673
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 5 HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 5 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272672
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 6 HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 6 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272674
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE 6 SD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE 6 SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272675
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272242
-#EXTINF:-1 tvg-id="" tvg-name="COPA DO NORDESTE HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/COPA%20DO%20NORDESTE.png" group-title="CANAIS | PPV",COPA DO NORDESTE HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272669
-#EXTINF:-1 tvg-id="" tvg-name="COPA LIBERTADORES 2020 1 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo-0.png" group-title="CANAIS | PPV",COPA LIBERTADORES 2020 1 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304283
-#EXTINF:-1 tvg-id="" tvg-name="COPA LIBERTADORES 2020 2 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo-0.png" group-title="CANAIS | PPV",COPA LIBERTADORES 2020 2 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304284
-#EXTINF:-1 tvg-id="" tvg-name="COPA LIBERTADORES 2020 3 HD²" tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/copa-libertadores-logo-0.png" group-title="CANAIS | PPV",COPA LIBERTADORES 2020 3 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304285
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA FHD²" tvg-logo="https://i.imgur.com/siI6PCU.png" group-title="CANAIS | REGIONAIS",CULTURA FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304538
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA HD²" tvg-logo="https://i.imgur.com/siI6PCU.png" group-title="CANAIS | REGIONAIS",CULTURA HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304290
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA SD²" tvg-logo="https://i.imgur.com/siI6PCU.png" group-title="CANAIS | REGIONAIS",CULTURA SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304291
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! FHD" tvg-logo="https://i.imgur.com/70mHKtn.png" group-title="CANAIS | VARIEDADES",Curta! FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272244
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! HD" tvg-logo="https://i.imgur.com/70mHKtn.png" group-title="CANAIS | VARIEDADES",Curta! HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272245
-#EXTINF:-1 tvg-id="" tvg-name="CURTA! HD²" tvg-logo="https://i.imgur.com/70mHKtn.png" group-title="CANAIS | VARIEDADES",CURTA! HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304292
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! SD" tvg-logo="https://i.imgur.com/70mHKtn.png" group-title="CANAIS | VARIEDADES",Curta! SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272246
-#EXTINF:-1 tvg-id="" tvg-name="CURTA! SD²" tvg-logo="https://i.imgur.com/70mHKtn.png" group-title="CANAIS | VARIEDADES",CURTA! SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304293
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | PPV",DAZN 1 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304294
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1024px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS | PPV",DAZN 2 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304295
-#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN FHD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/DAZN.png" group-title="CANAIS | PPV",DAZN FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272248
-#EXTINF:-1 tvg-id="EliteDAZN.br" tvg-name="DAZN HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/DAZN.png" group-title="CANAIS | PPV",DAZN HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272247
-#EXTINF:-1 tvg-id="" tvg-name="DISCORVERY  TURBO FHD²" tvg-logo="https://i.imgur.com/oGCwSJ8.png" group-title="CANAIS | DISCOVERY ",DISCORVERY  TURBO FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304539
-#EXTINF:-1 tvg-id="" tvg-name="DISCORVERY CHANNEL FHD²" tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="CANAIS | DISCOVERY ",DISCORVERY CHANNEL FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304540
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD²" tvg-logo="https://i.imgur.com/LQryo2I.png" group-title="CANAIS | DOCUMENTÁRIOS",HGTV FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304541
-#EXTINF:-1 tvg-id="" tvg-name="DISCORVERY THEATER FHD²" tvg-logo="https://i.imgur.com/u9qBXCA.png" group-title="CANAIS | DISCOVERY ",DISCORVERY THEATER FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304542
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel FHD¹" tvg-logo="http://cmsdz.life:80/images/5551abcb5832ee75bd7bd0ad20ef02f0.png" group-title="CANAIS | DISCOVERY ",Discovery Channel FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272249
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel FHD²" tvg-logo="http://cmsdz.life:80/images/5551abcb5832ee75bd7bd0ad20ef02f0.png" group-title="CANAIS | DISCOVERY ",Discovery Channel FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304543
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD¹" tvg-logo="http://cmsdz.life:80/images/5551abcb5832ee75bd7bd0ad20ef02f0.png" group-title="CANAIS | DISCOVERY ",Discovery Channel HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272250
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL HD²" tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="CANAIS | DISCOVERY ",DISCOVERY CHANNEL HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304296
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel SD¹" tvg-logo="http://cmsdz.life:80/images/5551abcb5832ee75bd7bd0ad20ef02f0.png" group-title="CANAIS | DISCOVERY ",Discovery Channel SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272251
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL SD²" tvg-logo="https://i.imgur.com/AxL7wZU.png" group-title="CANAIS | DISCOVERY ",DISCOVERY CHANNEL SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304297
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health FHD¹" tvg-logo="http://cmsdz.life:80/images/2ab63cc40a03982b2902afd425fb7389.png" group-title="CANAIS | DISCOVERY ",Discovery Home & Health FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272252
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health FHD²" tvg-logo="http://cmsdz.life:80/images/2ab63cc40a03982b2902afd425fb7389.png" group-title="CANAIS | DISCOVERY ",Discovery Home & Health FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304544
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD¹" tvg-logo="http://cmsdz.life:80/images/2ab63cc40a03982b2902afd425fb7389.png" group-title="CANAIS | DISCOVERY ",Discovery Home & Health HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272253
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH HD²" tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="CANAIS | DISCOVERY ",DISCOVERY HOME & HEALTH HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304300
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health SD¹" tvg-logo="http://cmsdz.life:80/images/2ab63cc40a03982b2902afd425fb7389.png" group-title="CANAIS | DISCOVERY ",Discovery Home & Health SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272254
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH SD²" tvg-logo="https://i.imgur.com/bDQKAJm.png" group-title="CANAIS | DISCOVERY ",DISCOVERY HOME & HEALTH SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304301
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Discovery ID FHD¹" tvg-logo="http://cmsdz.life:80/images/2ab63cc40a03982b2902afd425fb7389.png" group-title="CANAIS | DISCOVERY ",Discovery ID FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272255
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Discovery ID HD¹" tvg-logo="http://cmsdz.life:80/images/aaedb41a7e0ec6d34cbceb2ae1d3c1bf.png" group-title="CANAIS | DISCOVERY ",Discovery ID HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272256
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="Discovery ID SD¹" tvg-logo="http://cmsdz.life:80/images/aaedb41a7e0ec6d34cbceb2ae1d3c1bf.png" group-title="CANAIS | DISCOVERY ",Discovery ID SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272257
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS FHD²" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="CANAIS | INFANTIS ",DISCOVERY KIDS FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304545
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids FHD¹" tvg-logo="http://cmsdz.life:80/images/4ae22b6cbee75e91a04adfba67add323.png" group-title="CANAIS | DISCOVERY ",Discovery Kids FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272258
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD¹" tvg-logo="http://cmsdz.life:80/images/4ae22b6cbee75e91a04adfba67add323.png" group-title="CANAIS | DISCOVERY ",Discovery Kids HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272259
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS HD²" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="CANAIS | INFANTIS ",DISCOVERY KIDS HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304302
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids SD¹" tvg-logo="http://cmsdz.life:80/images/4ae22b6cbee75e91a04adfba67add323.png" group-title="CANAIS | DISCOVERY ",Discovery Kids SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272260
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS SD²" tvg-logo="https://i.imgur.com/waRTvHP.png" group-title="CANAIS | INFANTIS ",DISCOVERY KIDS SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304303
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science FHD¹" tvg-logo="http://cmsdz.life:80/images/c4d2ad93f174c9337e9a50cc83598130.png" group-title="CANAIS | DISCOVERY ",Discovery Science FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272261
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD¹" tvg-logo="http://cmsdz.life:80/images/c4d2ad93f174c9337e9a50cc83598130.png" group-title="CANAIS | DISCOVERY ",Discovery Science HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272262
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE HD²" tvg-logo="https://i.imgur.com/qfSk26c.png" group-title="CANAIS | DISCOVERY ",DISCOVERY SCIENCE HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304304
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science SD¹" tvg-logo="http://cmsdz.life:80/images/c4d2ad93f174c9337e9a50cc83598130.png" group-title="CANAIS | DISCOVERY ",Discovery Science SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272263
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE SD²" tvg-logo="https://i.imgur.com/qfSk26c.png" group-title="CANAIS | DISCOVERY ",DISCOVERY SCIENCE SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304305
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER HD²" tvg-logo="https://i.imgur.com/u9qBXCA.png" group-title="CANAIS | DISCOVERY ",DISCOVERY THEATER HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304306
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER SD²" tvg-logo="https://i.imgur.com/u9qBXCA.png" group-title="CANAIS | DISCOVERY ",DISCOVERY THEATER SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304307
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theather FHD¹" tvg-logo="http://cmsdz.life:80/images/112cb03a2b5fa7c34678e8a8e3015160.png" group-title="CANAIS | DISCOVERY ",Discovery Theather FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272264
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theather HD¹" tvg-logo="http://cmsdz.life:80/images/112cb03a2b5fa7c34678e8a8e3015160.png" group-title="CANAIS | DISCOVERY ",Discovery Theather HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272265
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theather SD¹" tvg-logo="http://cmsdz.life:80/images/112cb03a2b5fa7c34678e8a8e3015160.png" group-title="CANAIS | DISCOVERY ",Discovery Theather SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272266
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC HD²" tvg-logo="https://i.imgur.com/sv3DVBi.png" group-title="CANAIS | DISCOVERY ",DISCOVERY TLC HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304308
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TLC SD²" tvg-logo="https://i.imgur.com/sv3DVBi.png" group-title="CANAIS | DISCOVERY ",DISCOVERY TLC SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304309
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo FHD¹" tvg-logo="http://cmsdz.life:80/images/d2dae3775f61889ccf0fd420501df669.png" group-title="CANAIS | DISCOVERY ",Discovery Turbo FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272267
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD¹" tvg-logo="http://cmsdz.life:80/images/d2dae3775f61889ccf0fd420501df669.png" group-title="CANAIS | DISCOVERY ",Discovery Turbo HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272268
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO HD²" tvg-logo="https://i.imgur.com/oGCwSJ8.png" group-title="CANAIS | DISCOVERY ",DISCOVERY TURBO HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304310
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo SD¹" tvg-logo="https://i.imgur.com/oGCwSJ8.png" group-title="CANAIS | DISCOVERY ",Discovery Turbo SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272269
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO SD²" tvg-logo="http://cmsdz.life:80/images/d2dae3775f61889ccf0fd420501df669.png" group-title="CANAIS | DISCOVERY ",DISCOVERY TURBO SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304311
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World FHD¹" tvg-logo="https://i.imgur.com/UuglX1m.png" group-title="CANAIS | DISCOVERY ",Discovery World FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272270
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World HD¹" tvg-logo="https://i.imgur.com/UuglX1m.png" group-title="CANAIS | DISCOVERY ",Discovery World HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272271
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD HD²" tvg-logo="http://cmsdz.life:80/images/eedd286ad453dac1d854172871b14db0.png" group-title="CANAIS | DISCOVERY ",DISCOVERY WORLD HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304312
-#EXTINF:-1 tvg-id="Discoveryworldhd.br" tvg-name="Discovery World SD¹" tvg-logo="https://i.imgur.com/UuglX1m.png" group-title="CANAIS | DISCOVERY ",Discovery World SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272272
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD SD²" tvg-logo="http://cmsdz.life:80/images/eedd286ad453dac1d854172871b14db0.png" group-title="CANAIS | DISCOVERY ",DISCOVERY WORLD SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304313
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANEL FHD²" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIS ",DISNEY CHANEL FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304546
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel FHD" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIS ",Disney Channel FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272273
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD³" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIS ",Disney Channel FHD³
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304547
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIS ",Disney Channel HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272274
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD²" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIS ",DISNEY CHANNEL HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304314
-#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel SD" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIS ",Disney Channel SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272275
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL SD²" tvg-logo="https://i.imgur.com/2g00VUP.png" group-title="CANAIS | INFANTIS ",DISNEY CHANNEL SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304315
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney JR FHD" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="CANAIS | INFANTIS ",Disney JR FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272276
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney JR HD" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="CANAIS | INFANTIS ",Disney JR HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272277
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR HD²" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="CANAIS | INFANTIS ",DISNEY JR HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304316
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR SD²" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="CANAIS | INFANTIS ",DISNEY JR SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304317
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior FHD²" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="CANAIS | INFANTIS ",Disney Junior FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304548
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Junior SD" tvg-logo="https://i.imgur.com/wG7edSU.png" group-title="CANAIS | INFANTIS ",Disney Junior SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272278
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD FHD" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="CANAIS | INFANTIS ",Disney XD FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272279
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD HD" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="CANAIS | INFANTIS ",Disney XD HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272280
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD HD²" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="CANAIS | INFANTIS ",DISNEY XD HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304318
-#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="Disney XD SD" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="CANAIS | INFANTIS ",Disney XD SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272281
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD SD²" tvg-logo="https://i.imgur.com/sIrRz5B.png" group-title="CANAIS | INFANTIS ",DISNEY XD SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304319
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="https://i.imgur.com/pjmu4r2.png" group-title="CANAIS | VARIEDADES",E! FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272282
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/pjmu4r2.png" group-title="CANAIS | VARIEDADES",E! HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272283
-#EXTINF:-1 tvg-id="" tvg-name="E! HD²" tvg-logo="https://i.imgur.com/pjmu4r2.png" group-title="CANAIS | VARIEDADES",E! HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304320
-#EXTINF:-1 tvg-id="E.br" tvg-name="E! SD" tvg-logo="https://i.imgur.com/pjmu4r2.png" group-title="CANAIS | VARIEDADES",E! SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272284
-#EXTINF:-1 tvg-id="" tvg-name="E! SD²" tvg-logo="https://i.imgur.com/pjmu4r2.png" group-title="CANAIS | VARIEDADES",E! SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304321
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="Ei Plus 1 HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/EI%20PLUS.png" group-title="CANAIS | PPV",Ei Plus 1 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272310
-#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 1 HD²" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo_500x500_eiplus.png" group-title="CANAIS | PPV",EI PLUS 1 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304322
-#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 2 HD²" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo_500x500_eiplus.png" group-title="CANAIS | PPV",EI PLUS 2 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304323
-#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 3 HD²" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo_500x500_eiplus.png" group-title="CANAIS | PPV",EI PLUS 3 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304324
-#EXTINF:-1 tvg-id="" tvg-name="EI PLUS 4 HD²" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/w1200-h630-p-k-no-nu/logo_500x500_eiplus.png" group-title="CANAIS | PPV",EI PLUS 4 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304325
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="EIPLUS 2" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/EI%20PLUS.png" group-title="CANAIS | PPV",EIPLUS 2
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/266297
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="EIPLUS 2 " tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/EI%20PLUS.png" group-title="CANAIS | PPV",EIPLUS 2 
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272285
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="EIPLUS 3 " tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/EI%20PLUS.png" group-title="CANAIS | PPV",EIPLUS 3 
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272287
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="EIPLUS 4" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/EI%20PLUS.png" group-title="CANAIS | PPV",EIPLUS 4
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272289
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="EIPLUS 5" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/EI%20PLUS.png" group-title="CANAIS | PPV",EIPLUS 5
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272291
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="EIPLUS 5 HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/EI%20PLUS.png" group-title="CANAIS | PPV",EIPLUS 5 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272292
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="EIPLUS 6" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/EI%20PLUS.png" group-title="CANAIS | PPV",EIPLUS 6
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272293
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="EIPLUS 6 HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/EI%20PLUS.png" group-title="CANAIS | PPV",EIPLUS 6 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272294
-#EXTINF:-1 tvg-id="" tvg-name="Eptv Ribeirao FHD²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | GLOBO",Eptv Ribeirao FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304549
-#EXTINF:-1 tvg-id="" tvg-name="ESPN  HD²" tvg-logo="https://i.imgur.com/mAshG91.png" group-title="CANAIS | ESPN ",ESPN  HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304326
-#EXTINF:-1 tvg-id="" tvg-name="ESPN  SD²" tvg-logo="https://i.imgur.com/mAshG91.png" group-title="CANAIS | ESPN ",ESPN  SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304327
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 FHD" tvg-logo="https://i.imgur.com/ka0jjrw.png" group-title="CANAIS | ESPN ",ESPN 2 FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272295
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/ka0jjrw.png" group-title="CANAIS | ESPN ",ESPN 2 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272296
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD²" tvg-logo="https://i.imgur.com/ka0jjrw.png" group-title="CANAIS | ESPN ",ESPN 2 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304328
-#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 SD" tvg-logo="https://i.imgur.com/ka0jjrw.png" group-title="CANAIS | ESPN ",ESPN 2 SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272297
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD²" tvg-logo="https://i.imgur.com/ka0jjrw.png" group-title="CANAIS | ESPN ",ESPN 2 SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304329
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil FHD" tvg-logo="https://i.imgur.com/2psLwZX.png" group-title="CANAIS | ESPN ",ESPN Brasil FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272298
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL FHD²" tvg-logo="https://i.imgur.com/2psLwZX.png" group-title="CANAIS | ESPN ",ESPN BRASIL FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304550
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://i.imgur.com/2psLwZX.png" group-title="CANAIS | ESPN ",ESPN Brasil HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272299
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD²" tvg-logo="https://i.imgur.com/2psLwZX.png" group-title="CANAIS | ESPN ",ESPN BRASIL HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304330
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil SD" tvg-logo="https://i.imgur.com/2psLwZX.png" group-title="CANAIS | ESPN ",ESPN Brasil SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272300
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL SD²" tvg-logo="https://i.imgur.com/2psLwZX.png" group-title="CANAIS | ESPN ",ESPN BRASIL SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304331
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra FHD" tvg-logo="https://i.imgur.com/dxWbCux.png" group-title="CANAIS | ESPN ",ESPN Extra FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272301
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="https://i.imgur.com/dxWbCux.png" group-title="CANAIS | ESPN ",ESPN Extra HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272302
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra SD" tvg-logo="https://i.imgur.com/dxWbCux.png" group-title="CANAIS | ESPN ",ESPN Extra SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272303
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/mAshG91.png" group-title="CANAIS | ESPN ",ESPN FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272304
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/mAshG91.png" group-title="CANAIS | ESPN ",ESPN HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272305
-#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/mAshG91.png" group-title="CANAIS | ESPN ",ESPN SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272306
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="ESPORTE INTERATIVO" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/ESPORTE%20INTERATIVO.png" group-title="CANAIS | PPV",ESPORTE INTERATIVO
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272307
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="ESPORTE INTERATIVO" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/ESPORTE%20INTERATIVO.png" group-title="CANAIS | PPV",ESPORTE INTERATIVO
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272308
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="ESPORTE INTERATIVO HD" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/ESPORTE%20INTERATIVO.png" group-title="CANAIS | PPV",ESPORTE INTERATIVO HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272309
-#EXTINF:-1 tvg-id="EliteEiPlus.br" tvg-name="ESPORTE INTERATIVO²" tvg-logo="http://logos.centraldotz.online/Logo%20Esportes/ESPORTE%20INTERATIVO.png" group-title="CANAIS | PPV",ESPORTE INTERATIVO²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/266325
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV FHD" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="CANAIS | VARIEDADES",Fish TV FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272311
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="CANAIS | VARIEDADES",Fish TV HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272312
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV HD²" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="CANAIS | VARIEDADES",FISH TV HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304332
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV SD" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="CANAIS | VARIEDADES",Fish TV SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272313
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV SD²" tvg-logo="https://i.imgur.com/MQenprP.png" group-title="CANAIS | VARIEDADES",FISH TV SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304333
-#EXTINF:-1 tvg-id="" tvg-name="Fla TV HD²" tvg-logo="https://pbs.twimg.com/media/CW7Yh9XWAAAOTV2.png" group-title="CANAIS | PPV",Fla TV HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304348
-#EXTINF:-1 tvg-id="" tvg-name="FlaTV TESTE" tvg-logo="" group-title="CANAIS | PPV",FlaTV TESTE
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272314
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network FHD" tvg-logo="https://i.imgur.com/hNKbkt9.png" group-title="CANAIS | VARIEDADES",Food Network FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272315
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD" tvg-logo="https://i.imgur.com/hNKbkt9.png" group-title="CANAIS | VARIEDADES",Food Network HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272316
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK HD²" tvg-logo="https://i.imgur.com/hNKbkt9.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304334
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network SD" tvg-logo="https://i.imgur.com/hNKbkt9.png" group-title="CANAIS | VARIEDADES",Food Network SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272317
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK SD²" tvg-logo="https://i.imgur.com/hNKbkt9.png" group-title="CANAIS | VARIEDADES",FOOD NETWORK SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304335
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS FHD²" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | FOX",FOX SPORTS FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304552
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD" tvg-logo="https://i.imgur.com/PIJmQdW.png" group-title="CANAIS | FOX",FOX FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272318
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="https://i.imgur.com/PIJmQdW.png" group-title="CANAIS | FOX",FOX HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272319
-#EXTINF:-1 tvg-id="" tvg-name="FOX HD²" tvg-logo="https://i.imgur.com/PIJmQdW.png" group-title="CANAIS | FILMES E SÉRIES ",FOX HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304336
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life FHD" tvg-logo="https://i.imgur.com/IEio7Xi.png" group-title="CANAIS | FOX",Fox Life FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272320
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life HD" tvg-logo="https://i.imgur.com/IEio7Xi.png" group-title="CANAIS | FOX",Fox Life HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272321
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD²" tvg-logo="https://i.imgur.com/IEio7Xi.png" group-title="CANAIS | FILMES E SÉRIES ",FOX LIFE HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304337
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Fox Life SD" tvg-logo="https://i.imgur.com/IEio7Xi.png" group-title="CANAIS | FOX",Fox Life SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272322
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE SD²" tvg-logo="https://i.imgur.com/IEio7Xi.png" group-title="CANAIS | FILMES E SÉRIES ",FOX LIFE SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304338
-#EXTINF:-1 tvg-id="" tvg-name="Fox News FHD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="CANAIS | FOX",Fox News FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272323
-#EXTINF:-1 tvg-id="" tvg-name="Fox News HD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="CANAIS | FOX",Fox News HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272324
-#EXTINF:-1 tvg-id="" tvg-name="Fox News SD" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Fox-News-Logo.png" group-title="CANAIS | FOX",Fox News SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272325
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 FHD" tvg-logo="https://i.imgur.com/NTbvJ9i.png" group-title="CANAIS | FOX",Fox Premium 1 FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272326
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 HD" tvg-logo="https://i.imgur.com/NTbvJ9i.png" group-title="CANAIS | FOX",Fox Premium 1 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272327
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 HD²" tvg-logo="https://i.imgur.com/NTbvJ9i.png" group-title="CANAIS | FILMES E SÉRIES ",FOX PREMIUM 1 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304339
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Fox Premium 1 SD" tvg-logo="https://i.imgur.com/NTbvJ9i.png" group-title="CANAIS | FOX",Fox Premium 1 SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272328
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1 SD²" tvg-logo="https://i.imgur.com/NTbvJ9i.png" group-title="CANAIS | FILMES E SÉRIES ",FOX PREMIUM 1 SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304340
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 FHD" tvg-logo="https://i.imgur.com/3yZd3y8.png" group-title="CANAIS | FOX",Fox Premium 2 FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272329
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 HD" tvg-logo="https://i.imgur.com/3yZd3y8.png" group-title="CANAIS | FOX",Fox Premium 2 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272330
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 HD²" tvg-logo="https://i.imgur.com/3yZd3y8.png" group-title="CANAIS | FILMES E SÉRIES ",FOX PREMIUM 2 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304341
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Fox Premium 2 SD" tvg-logo="https://i.imgur.com/3yZd3y8.png" group-title="CANAIS | FOX",Fox Premium 2 SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272331
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2 SD²" tvg-logo="https://i.imgur.com/3yZd3y8.png" group-title="CANAIS | FILMES E SÉRIES ",FOX PREMIUM 2 SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304342
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="Fox SD" tvg-logo="https://i.imgur.com/PIJmQdW.png" group-title="CANAIS | FOX",Fox SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272332
-#EXTINF:-1 tvg-id="" tvg-name="FOX SD²" tvg-logo="https://i.imgur.com/PIJmQdW.png" group-title="CANAIS | FILMES E SÉRIES ",FOX SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304343
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sport HD" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | FOX",Fox Sport HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272333
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 FHD" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="CANAIS | FOX",Fox Sports 2 FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272334
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 FHD²" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="CANAIS | FOX",FOX SPORTS 2 FHD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304551
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="CANAIS | FOX",Fox Sports 2 HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272335
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD²" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="CANAIS | FOX",FOX SPORTS 2 HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304344
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="Fox Sports 2 SD" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="CANAIS | FOX",Fox Sports 2 SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272336
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 SD²" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="CANAIS | FOX",FOX SPORTS 2 SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304345
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports FHD" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | FOX",Fox Sports FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272337
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS HD²" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | FOX",FOX SPORTS HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304346
-#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="Fox Sports SD" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | FOX",Fox Sports SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272338
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS SD²" tvg-logo="https://i.imgur.com/qrZZd9s.png" group-title="CANAIS | FOX",FOX SPORTS SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304347
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA SD²" tvg-logo="http://logos.centraldotz.online/Logo%20Canais%20Abertos/FUTURA.png" group-title="CANAIS | REGIONAIS",FUTURA SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304351
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD¹" tvg-logo="https://i.imgur.com/s5s08uV.png" group-title="CANAIS | FILMES E SÉRIES ",FX FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272339
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD¹" tvg-logo="https://i.imgur.com/s5s08uV.png" group-title="CANAIS | FILMES E SÉRIES ",FX HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272340
-#EXTINF:-1 tvg-id="" tvg-name="FX HD²" tvg-logo="https://i.imgur.com/s5s08uV.png" group-title="CANAIS | FILMES E SÉRIES ",FX HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304352
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD¹" tvg-logo="https://i.imgur.com/s5s08uV.png" group-title="CANAIS | FILMES E SÉRIES ",FX SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272341
-#EXTINF:-1 tvg-id="" tvg-name="FX SD²" tvg-logo="https://i.imgur.com/s5s08uV.png" group-title="CANAIS | FILMES E SÉRIES ",FX SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304353
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZONAS SD²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | GLOBO",GLOBO AMAZONAS SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304354
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA GOIANIA SD²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | GLOBO",GLOBO ANHANGUERA GOIANIA SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304355
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA SD²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304356
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Centro America FHD¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | GLOBO",Globo Centro America FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272343
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Centro America HD¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | GLOBO",Globo Centro America HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272344
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo Centro America SD¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | GLOBO",Globo Centro America SD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272345
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO CUIABA SD²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | GLOBO",GLOBO CUIABA SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304357
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo EPTV Campinas FHD¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | GLOBO",Globo EPTV Campinas FHD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272346
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo EPTV Campinas HD¹" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | GLOBO",Globo EPTV Campinas HD¹
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272347
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD²" tvg-logo="https://i.imgur.com/OiAwKd5.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304358
-#EXTINF:-1 tvg-id="" tvg-name="24: SUPER DRAGON BALL HEROES" tvg-logo="" group-title="CANAIS | 24 HORAS",24: SUPER DRAGON BALL HEROES
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309047
-#EXTINF:-1 tvg-id="" tvg-name="24: SUPER TRUCK" tvg-logo="" group-title="CANAIS | 24 HORAS",24: SUPER TRUCK
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309048
-#EXTINF:-1 tvg-id="" tvg-name="24: TALKING TOM" tvg-logo="" group-title="CANAIS | 24 HORAS",24: TALKING TOM
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309049
-#EXTINF:-1 tvg-id="" tvg-name="24: TARTARUGUINHA" tvg-logo="" group-title="CANAIS | 24 HORAS",24: TARTARUGUINHA
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309050
-#EXTINF:-1 tvg-id="" tvg-name="24: TARZAN & JANE" tvg-logo="" group-title="CANAIS | 24 HORAS",24: TARZAN & JANE
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309051
-#EXTINF:-1 tvg-id="" tvg-name="24: TELETUBBIES" tvg-logo="" group-title="CANAIS | 24 HORAS",24: TELETUBBIES
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309052
-#EXTINF:-1 tvg-id="" tvg-name="24: TERRA DOS CAVALOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24: TERRA DOS CAVALOS
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309053
-#EXTINF:-1 tvg-id="" tvg-name="24: TIN TIN" tvg-logo="" group-title="CANAIS | 24 HORAS",24: TIN TIN
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309067
-#EXTINF:-1 tvg-id="" tvg-name="24: TODO MUNDO ODEIA O CRIS" tvg-logo="" group-title="CANAIS | 24 HORAS",24: TODO MUNDO ODEIA O CRIS
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309068
-#EXTINF:-1 tvg-id="" tvg-name="24: TOM & JERRY" tvg-logo="" group-title="CANAIS | 24 HORAS",24: TOM & JERRY
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309069
-#EXTINF:-1 tvg-id="" tvg-name="24: TOY STORE" tvg-logo="" group-title="CANAIS | 24 HORAS",24: TOY STORE
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309070
-#EXTINF:-1 tvg-id="" tvg-name="24: TROY O TREM" tvg-logo="" group-title="CANAIS | 24 HORAS",24: TROY O TREM
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309071
-#EXTINF:-1 tvg-id="" tvg-name="24: TURMA DA MONICA" tvg-logo="" group-title="CANAIS | 24 HORAS",24: TURMA DA MONICA
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309072
-#EXTINF:-1 tvg-id="" tvg-name="24: VILLA DOS INCETOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24: VILLA DOS INCETOS
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309073
-#EXTINF:-1 tvg-id="" tvg-name="24: WALT DISNEY" tvg-logo="" group-title="CANAIS | 24 HORAS",24: WALT DISNEY
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309074
-#EXTINF:-1 tvg-id="" tvg-name="24H: SERIES THE RAIN" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: SERIES THE RAIN
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309077
-#EXTINF:-1 tvg-id="" tvg-name="24H: SERIES MAQUINA MORTIFERA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: SERIES MAQUINA MORTIFERA
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309078
-#EXTINF:-1 tvg-id="" tvg-name="24H: SERIES PRISON BREACK" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: SERIES PRISON BREACK
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309079
-#EXTINF:-1 tvg-id="" tvg-name="24H: SERIES DC LEGENDS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: SERIES DC LEGENDS
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309080
-#EXTINF:-1 tvg-id="" tvg-name="24H: SERIES DOIS HOMENS E MEIO" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: SERIES DOIS HOMENS E MEIO
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309081
-#EXTINF:-1 tvg-id="" tvg-name="24H: SERIES CHICAGO FIRE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: SERIES CHICAGO FIRE
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309082
-#EXTINF:-1 tvg-id="" tvg-name="24H: SERIES MR. ROBOT" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: SERIES MR. ROBOT
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309083
-#EXTINF:-1 tvg-id="" tvg-name="24H: SERIES ALTERED CARBON" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: SERIES ALTERED CARBON
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309084
-#EXTINF:-1 tvg-id="" tvg-name="24H: SERIES CASAMENTO AS CEGAS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: SERIES CASAMENTO AS CEGAS
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309085
-#EXTINF:-1 tvg-id="" tvg-name="24H: SERIES NARCOS MEXICANOS" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: SERIES NARCOS MEXICANOS
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309086
-#EXTINF:-1 tvg-id="" tvg-name="24H: SERIES SMALLVILLE" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: SERIES SMALLVILLE
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309087
-#EXTINF:-1 tvg-id="" tvg-name="24H: FILMES COMEDIA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: FILMES COMEDIA
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309089
-#EXTINF:-1 tvg-id="" tvg-name="24H: FILMES TERROR" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: FILMES TERROR
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309090
-#EXTINF:-1 tvg-id="" tvg-name="24H: FILMES 2019" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: FILMES 2019
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309092
-#EXTINF:-1 tvg-id="" tvg-name="24H: FILMES GUERRA" tvg-logo="" group-title="CANAIS | 24 HORAS",24H: FILMES GUERRA
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309094
-#EXTINF:-1 tvg-id="" tvg-name="24: ULTRA MEN" tvg-logo="" group-title="CANAIS | 24 HORAS",24: ULTRA MEN
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309095
-#EXTINF:-1 tvg-id="" tvg-name="24: JASPION" tvg-logo="" group-title="CANAIS | 24 HORAS",24: JASPION
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309096
-#EXTINF:-1 tvg-id="" tvg-name="24: ASTERIX & CLEPATRA" tvg-logo="" group-title="CANAIS | 24 HORAS",24: ASTERIX & CLEPATRA
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309097
-#EXTINF:-1 tvg-id="" tvg-name="24: ALAKAZAN" tvg-logo="" group-title="CANAIS | 24 HORAS",24: ALAKAZAN
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309098
-#EXTINF:-1 tvg-id="" tvg-name="24: O REINO GELADO" tvg-logo="" group-title="CANAIS | 24 HORAS",24: O REINO GELADO
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309099
-#EXTINF:-1 tvg-id="" tvg-name="24: BATE FINO" tvg-logo="" group-title="CANAIS | 24 HORAS",24: BATE FINO
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309100
-#EXTINF:-1 tvg-id="" tvg-name="24: ESQUADAO DINO" tvg-logo="" group-title="CANAIS | 24 HORAS",24: ESQUADAO DINO
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/309101
-#EXTINF:-1 tvg-id="Tv5monde.br" tvg-name="TV5" tvg-logo="https://assets.stickpng.com/thumbs/5a5b8ead14d8c4188e0b0938.png" group-title="CANAIS | VARIEDADES",TV5
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272643
+
 #EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XX: Playboy FHD" tvg-logo="http://logos.centraldotz.online/Logo%20Adulto/PLAYBOY%20TV.png" group-title="CANAIS | ADULTOS",XX: Playboy FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272969
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/272969
 #EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XX: Playboy HD" tvg-logo="http://logos.centraldotz.online/Logo%20Adulto/PLAYBOY%20TV.png" group-title="CANAIS | ADULTOS",XX: Playboy HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272970
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/272970
 #EXTINF:-1 tvg-id="Playboytv.br" tvg-name="XX: Playboy TV SD" tvg-logo="http://logos.centraldotz.online/Logo%20Adulto/PLAYBOY%20TV.png" group-title="CANAIS | ADULTOS",XX: Playboy TV SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272971
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/272971
 #EXTINF:-1 tvg-id="Sextreme.br" tvg-name="XX: Sex Prive FHD" tvg-logo="http://logos.centraldotz.online/Logo%20Adulto/SEXPRIVE.png" group-title="CANAIS | ADULTOS",XX: Sex Prive FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272972
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/272972
 #EXTINF:-1 tvg-id="Sextreme.br" tvg-name="XX: Sex Prive HD" tvg-logo="http://logos.centraldotz.online/Logo%20Adulto/SEXPRIVE.png" group-title="CANAIS | ADULTOS",XX: Sex Prive HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272973
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/272973
 #EXTINF:-1 tvg-id="Sextreme.br" tvg-name="XX: Sex Prive SD" tvg-logo="http://logos.centraldotz.online/Logo%20Adulto/SEXPRIVE.png" group-title="CANAIS | ADULTOS",XX: Sex Prive SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272974
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/272974
 #EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XX: Sexy Hot FHD" tvg-logo="http://logos.centraldotz.online/Logo%20Adulto/SEXY%20HOT.png" group-title="CANAIS | ADULTOS",XX: Sexy Hot FHD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272975
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/272975
 #EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XX: Sexy Hot HD" tvg-logo="http://logos.centraldotz.online/Logo%20Adulto/SEXY%20HOT.png" group-title="CANAIS | ADULTOS",XX: Sexy Hot HD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272976
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/272976
 #EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="XX: Sexy Hot SD" tvg-logo="http://logos.centraldotz.online/Logo%20Adulto/SEXY%20HOT.png" group-title="CANAIS | ADULTOS",XX: Sexy Hot SD
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/272977
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/272977
 #EXTINF:-1 tvg-id="" tvg-name="CINE PORNO +18" tvg-logo="http://play.cmsdz.life:80/images/101299b0fac165aca741253d7453a539.png" group-title="CANAIS | ADULTOS",CINE PORNO +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/273056
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/273056
 #EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="CANAIS | ADULTOS",PLAYBOY TV SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304440
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304440
 #EXTINF:-1 tvg-id="" tvg-name="SEXTREME SD²" tvg-logo="https://3.bp.blogspot.com/-X0DcNLI45_0/VgsCHTBetKI/AAAAAAAAldA/7hLYfIyR5Zc/s1600/Sextreme.png" group-title="CANAIS | ADULTOS",SEXTREME SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304479
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304479
 #EXTINF:-1 tvg-id="" tvg-name="SEXY HOT SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png" group-title="CANAIS | ADULTOS",SEXY HOT SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304480
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304480
 #EXTINF:-1 tvg-id="" tvg-name="VENUS SD²" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="CANAIS | ADULTOS",VENUS SD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304518
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304518
 #EXTINF:-1 tvg-id="" tvg-name="XXX 530" tvg-logo="" group-title="CANAIS | ADULTOS",XXX 530
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304883
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304883
 #EXTINF:-1 tvg-id="" tvg-name="XXX 525" tvg-logo="" group-title="CANAIS | ADULTOS",XXX 525
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304884
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304884
 #EXTINF:-1 tvg-id="" tvg-name="XXX 524" tvg-logo="" group-title="CANAIS | ADULTOS",XXX 524
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304885
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304885
 #EXTINF:-1 tvg-id="" tvg-name="XXX 519" tvg-logo="" group-title="CANAIS | ADULTOS",XXX 519
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304887
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304887
 #EXTINF:-1 tvg-id="" tvg-name="XXX 509" tvg-logo="" group-title="CANAIS | ADULTOS",XXX 509
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304890
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304890
 #EXTINF:-1 tvg-id="" tvg-name="FrenchLover TV" tvg-logo="https://i.imgur.com/qRX4PWo.png" group-title="CANAIS | ADULTOS",FrenchLover TV
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304892
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304892
 #EXTINF:-1 tvg-id="" tvg-name="FTV Midnight Secrets (SD²)" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="CANAIS | ADULTOS",FTV Midnight Secrets (SD²)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304893
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304893
 #EXTINF:-1 tvg-id="" tvg-name="FTV Midnight Secrets (HD²)" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="CANAIS | ADULTOS",FTV Midnight Secrets (HD²)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304894
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304894
 #EXTINF:-1 tvg-id="" tvg-name="FTV Midnight Secrets (UHD²)" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_horizontal.png" group-title="CANAIS | ADULTOS",FTV Midnight Secrets (UHD²)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304895
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304895
 #EXTINF:-1 tvg-id="" tvg-name="Jasmin TV (SD²)" tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="CANAIS | ADULTOS",Jasmin TV (SD²)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304896
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304896
 #EXTINF:-1 tvg-id="" tvg-name="Jasmin TV (HD²)" tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="CANAIS | ADULTOS",Jasmin TV (HD²)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304897
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304897
 #EXTINF:-1 tvg-id="" tvg-name="Miami TV Latino" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="CANAIS | ADULTOS",Miami TV Latino
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304898
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304898
 #EXTINF:-1 tvg-id="" tvg-name="Miami TV Live" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="CANAIS | ADULTOS",Miami TV Live
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304899
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304899
 #EXTINF:-1 tvg-id="" tvg-name="Midnight TV (New!)" tvg-logo="https://i.imgur.com/ftg9DbR.png" group-title="CANAIS | ADULTOS",Midnight TV (New!)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304900
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304900
 #EXTINF:-1 tvg-id="" tvg-name="NYX Media 1 (Opt-1) (New!)" tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="CANAIS | ADULTOS",NYX Media 1 (Opt-1) (New!)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304901
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304901
 #EXTINF:-1 tvg-id="" tvg-name="NYX Media 2 (Opt-1) (New!)" tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="CANAIS | ADULTOS",NYX Media 2 (Opt-1) (New!)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304903
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304903
 #EXTINF:-1 tvg-id="" tvg-name="NYX Media 1 (Opt-2) (New!)" tvg-logo="https://i.imgur.com/D62Pi3e.png" group-title="CANAIS | ADULTOS",NYX Media 1 (Opt-2) (New!)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304902
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304902
 #EXTINF:-1 tvg-id="" tvg-name="Private HD²" tvg-logo="https://i.imgur.com/D0WeMID.png" group-title="CANAIS | ADULTOS",Private HD²
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304904
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304904
 #EXTINF:-1 tvg-id="" tvg-name="Priv" tvg-logo="https://i.imgur.com/MBGOQkC.png" group-title="CANAIS | ADULTOS",Priv
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304905
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304905
 #EXTINF:-1 tvg-id="" tvg-name="Shemale Tube TV 1" tvg-logo="https://i.imgur.com/zX6fCMT.png" group-title="CANAIS | ADULTOS",Shemale Tube TV 1
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304906
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304906
 #EXTINF:-1 tvg-id="" tvg-name="Shemale Tube TV 2" tvg-logo="https://i.imgur.com/zX6fCMT.png" group-title="CANAIS | ADULTOS",Shemale Tube TV 2
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304907
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304907
 #EXTINF:-1 tvg-id="" tvg-name="Viki TV (New!)" tvg-logo="https://i.imgur.com/EJZPlK9.jpg" group-title="CANAIS | ADULTOS",Viki TV (New!)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304908
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304908
 #EXTINF:-1 tvg-id="" tvg-name="Visit-X TV (Opt-1)" tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="CANAIS | ADULTOS",Visit-X TV (Opt-1)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304909
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304909
 #EXTINF:-1 tvg-id="" tvg-name="Visit-X TV (Opt-2)" tvg-logo="http://images.zattic.com/logos/99c52002fd7a7a01f017/white/210x120.png" group-title="CANAIS | ADULTOS",Visit-X TV (Opt-2)
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304910
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304910
 #EXTINF:-1 tvg-id="" tvg-name="Zest TV" tvg-logo="https://i.imgur.com/crcVfxw.png" group-title="CANAIS | ADULTOS",Zest TV
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304911
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304911
 #EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Big Ass
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304912
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304912
 #EXTINF:-1 tvg-id="" tvg-name="Big Tits" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Big Tits
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304913
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304913
 #EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Blowjob
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304914
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304914
 #EXTINF:-1 tvg-id="" tvg-name="Cuckold" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Cuckold
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304915
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304915
 #EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Fetish
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304916
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304916
 #EXTINF:-1 tvg-id="" tvg-name="Hardcore" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Hardcore
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304917
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304917
 #EXTINF:-1 tvg-id="" tvg-name="Interracial" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Interracial
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304918
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304918
 #EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Latina
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304919
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304919
 #EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Lesbian
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304920
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304920
 #EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",MILF
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304921
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304921
 #EXTINF:-1 tvg-id="" tvg-name="POV" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",POV
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304922
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304922
 #EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Pornstar
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304923
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304923
 #EXTINF:-1 tvg-id="" tvg-name="Russian" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Russian
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304924
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304924
 #EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Teen
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304925
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304925
 #EXTINF:-1 tvg-id="" tvg-name="Threesome" tvg-logo="https://i.imgur.com/0XJcknD.png" group-title="CANAIS | ADULTOS",Threesome
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304926
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304926
 #EXTINF:-1 tvg-id="" tvg-name="Other - Seventeen Video 01" tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="CANAIS | ADULTOS",Other - Seventeen Video 01
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304927
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304927
 #EXTINF:-1 tvg-id="" tvg-name="Other - Girls + Studs 01" tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="CANAIS | ADULTOS",Other - Girls + Studs 01
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304928
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304928
 #EXTINF:-1 tvg-id="" tvg-name="Other - Dane Jones - My Sweet Spot" tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="CANAIS | ADULTOS",Other - Dane Jones - My Sweet Spot
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304929
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304929
 #EXTINF:-1 tvg-id="" tvg-name="Other - Lust Cinema - Sex Fetish" tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="CANAIS | ADULTOS",Other - Lust Cinema - Sex Fetish
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304930
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304930
 #EXTINF:-1 tvg-id="" tvg-name="Other - Nubiles Porn - Ricky" tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="CANAIS | ADULTOS",Other - Nubiles Porn - Ricky
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304931
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304931
 #EXTINF:-1 tvg-id="" tvg-name="Other - Public Pick Ups 01" tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="CANAIS | ADULTOS",Other - Public Pick Ups 01
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304932
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304932
 #EXTINF:-1 tvg-id="" tvg-name="Other - Blonde Amateur" tvg-logo="http://i.imgur.com/ur8xpQ7.png" group-title="CANAIS | ADULTOS",Other - Blonde Amateur
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304933
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304933
 #EXTINF:-1 tvg-id="" tvg-name="Big Dick +18" tvg-logo="" group-title="CANAIS | ADULTOS",Big Dick +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304935
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304935
 #EXTINF:-1 tvg-id="" tvg-name="BIG Tits +18" tvg-logo="" group-title="CANAIS | ADULTOS",BIG Tits +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304936
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304936
 #EXTINF:-1 tvg-id="" tvg-name="Fetish +18" tvg-logo="" group-title="CANAIS | ADULTOS",Fetish +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304937
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304937
 #EXTINF:-1 tvg-id="" tvg-name="BIG ASS +18" tvg-logo="" group-title="CANAIS | ADULTOS",BIG ASS +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304938
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304938
 #EXTINF:-1 tvg-id="" tvg-name="Interracial +18" tvg-logo="" group-title="CANAIS | ADULTOS",Interracial +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304939
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304939
 #EXTINF:-1 tvg-id="" tvg-name="Latina +18" tvg-logo="" group-title="CANAIS | ADULTOS",Latina +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304940
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304940
 #EXTINF:-1 tvg-id="" tvg-name="POV +18" tvg-logo="" group-title="CANAIS | ADULTOS",POV +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304941
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304941
 #EXTINF:-1 tvg-id="" tvg-name="Blowjob +18" tvg-logo="" group-title="CANAIS | ADULTOS",Blowjob +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304942
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304942
 #EXTINF:-1 tvg-id="" tvg-name="Teen +18" tvg-logo="" group-title="CANAIS | ADULTOS",Teen +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304943
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304943
 #EXTINF:-1 tvg-id="" tvg-name="Hardcore +18" tvg-logo="" group-title="CANAIS | ADULTOS",Hardcore +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304944
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304944
 #EXTINF:-1 tvg-id="" tvg-name="Cuckold +18" tvg-logo="" group-title="CANAIS | ADULTOS",Cuckold +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304945
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304945
 #EXTINF:-1 tvg-id="" tvg-name="Threesome +18" tvg-logo="" group-title="CANAIS | ADULTOS",Threesome +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304946
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304946
 #EXTINF:-1 tvg-id="" tvg-name="Russian +18" tvg-logo="" group-title="CANAIS | ADULTOS",Russian +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304947
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304947
 #EXTINF:-1 tvg-id="" tvg-name="Lesbian +18" tvg-logo="" group-title="CANAIS | ADULTOS",Lesbian +18
-http://dnsnoahtv.cmsppv.life:80/7860863468/1888229438/304948
+http://dnsnoahtv.cmsppv.life:80/1911337433/2709762823/304948
 #EXTINF:-1 tvg-id="" tvg-name="21918" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",21918
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308692.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308692.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Agirlknows - Rebecca Volpetti Emily Cutie And Kinuski" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Agirlknows - Rebecca Volpetti Emily Cutie And Kinuski
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308693.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308693.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Blacked - Emily Cutie - Working Abroad" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Blacked - Emily Cutie - Working Abroad
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308694.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308694.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Blackedraw - Emily Cutie - Late Transit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Blackedraw - Emily Cutie - Late Transit
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308695.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308695.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Defloration - Emily Cutie - Hardcore Defloration" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Defloration - Emily Cutie - Hardcore Defloration
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308696.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308696.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Hornyhostel - Emily Cutie - Find Me" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Hornyhostel - Emily Cutie - Find Me
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308697.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308697.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Immorallive - Emily Cutie (2)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Immorallive - Emily Cutie (2)
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308698.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308698.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Immorallive - Emily Cutie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Immorallive - Emily Cutie
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308699.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308699.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Immorallive Anal - Emily Cutie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Immorallive Anal - Emily Cutie
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308700.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308700.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Isabelle Star - New Star" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Isabelle Star - New Star
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308701.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308701.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Thewhiteboxxx - Emily Cutie - Sensual Morning" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Thewhiteboxxx - Emily Cutie - Sensual Morning
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308702.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308702.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Thewhiteboxxx - Emily Cutie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Thewhiteboxxx - Emily Cutie
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308703.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308703.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Tushy - Emily Cutie - Art And Anal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Tushy - Emily Cutie - Art And Anal
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308704.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308704.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 01
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308705.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308705.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 02
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308706.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308706.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 03
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308707.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308707.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 04
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308708.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308708.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 05
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308709.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308709.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 06
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308710.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308710.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 07
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308711.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308711.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 08
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308712.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308712.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 09
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308713.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308713.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 10
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308714.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308714.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 11
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308715.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308715.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 12
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308716.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308716.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 13
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308717.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308717.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 14
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308718.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308718.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 15
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308719.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308719.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 16
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308720.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308720.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto - Winter Jade 17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto - Winter Jade 17
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308721.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308721.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: A Very Merry Bareback Christmas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: A Very Merry Bareback Christmas
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308722.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308722.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Bangbros Mia Khalifa - Is Back And Ready For Black Dick" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Bangbros Mia Khalifa - Is Back And Ready For Black Dick
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308723.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308723.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Bangbros Mia Khalifa - Mia K Gives The Girlfriend Experience" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Bangbros Mia Khalifa - Mia K Gives The Girlfriend Experience
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308724.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308724.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Bangbros Mia Khalifa - Mia Khalifa Gets Her Pussy Stretched" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Bangbros Mia Khalifa - Mia Khalifa Gets Her Pussy Stretched
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308725.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308725.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Bareback Leather Fuck Fest" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Bareback Leather Fuck Fest
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308726.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308726.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: BCM  Busty Babe Loves Black Cock" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: BCM  Busty Babe Loves Black Cock
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308727.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308727.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Buttman - Carnaval Folia 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Buttman - Carnaval Folia 2005
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308728.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308728.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Buttman - Puro Prazer 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Buttman - Puro Prazer 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308729.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308729.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Buttman - Tour Porto Alegre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Buttman - Tour Porto Alegre
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308730.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308730.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Festa da Salsicha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Festa da Salsicha
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308731.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308731.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: GloryHole Stella Cox and Jade Jantzen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: GloryHole Stella Cox and Jade Jantzen
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308732.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308732.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: HarmonyVision Bentley And Stella Cox" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: HarmonyVision Bentley And Stella Cox
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308733.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308733.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: His Sons Best Friend" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: His Sons Best Friend
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308734.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308734.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Joshstonexxx - Mia Khalifa - Tony Rubinos Lets Make A Sex Tape" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Joshstonexxx - Mia Khalifa - Tony Rubinos Lets Make A Sex Tape
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308735.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308735.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: LittleCaprice Dreams Caprice" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: LittleCaprice Dreams Caprice
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308736.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308736.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: LittleCaprice Dreams  Little Caprice" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: LittleCaprice Dreams  Little Caprice
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308737.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308737.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: LittleCaprice Dreams Paula Shy Caprice" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: LittleCaprice Dreams Paula Shy Caprice
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308738.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308738.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: LittleCapriceDreams School Girl Webcam Show" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: LittleCapriceDreams School Girl Webcam Show
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308739.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308739.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Little Caprice Gaping For My Husband s Boss" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Little Caprice Gaping For My Husband s Boss
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308740.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308740.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - All Holes Fucked Step Sister Teen - Blowjob Deepth Pussy Anal And Facial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - All Holes Fucked Step Sister Teen - Blowjob Deepth Pussy Anal And Facial
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308741.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308741.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Amateur Girlfriend Teen Sucking My Dick To Get Cum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Amateur Girlfriend Teen Sucking My Dick To Get Cum
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308742.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308742.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Asmr Blowjob Banana Whispering And Moan - Sussurando E Gemendo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Asmr Blowjob Banana Whispering And Moan - Sussurando E Gemendo
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308743.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308743.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Asmr Porn Instagram Girl Talking Dirty And Teasing Her Body" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Asmr Porn Instagram Girl Talking Dirty And Teasing Her Body
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308744.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308744.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Big Ass Teen Dances Funk And Gives A Blowjob For Facial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Big Ass Teen Dances Funk And Gives A Blowjob For Facial
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308745.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308745.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Big Booty Redhead Girlfriend In Yoga Pants Get Anal Fuck Awesome Girl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Big Booty Redhead Girlfriend In Yoga Pants Get Anal Fuck Awesome Girl
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308746.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308746.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Blowjob After Waking Up Hot Readhead Teen. Cum In Mouth Amateur Blowjob" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Blowjob After Waking Up Hot Readhead Teen. Cum In Mouth Amateur Blowjob
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308747.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308747.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Blowjob And Asmr Ocean 4K In The Background. Sound Good" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Blowjob And Asmr Ocean 4K In The Background. Sound Good
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308748.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308748.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Cat Blowjob Yammyyy Cosplay Cat Giving A Sloppy Blowjob In Huge Dildo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Cat Blowjob Yammyyy Cosplay Cat Giving A Sloppy Blowjob In Huge Dildo
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308749.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308749.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Chantilly Fun Fuck And A Big Pussy Creampie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Chantilly Fun Fuck And A Big Pussy Creampie
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308750.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308750.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Cum In Mouth I Just Cant See A Big Cock And Not To Suck It. Morning Blowjob" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Cum In Mouth I Just Cant See A Big Cock And Not To Suck It. Morning Blowjob
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308751.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308751.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Cute Redhead Girl Sucking A Big Dick And Swallowing All The Cumshot. - 1080P-12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Cute Redhead Girl Sucking A Big Dick And Swallowing All The Cumshot. - 1080P-12
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308752.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308752.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Doing A Footjob For Him To Cum On My Feets. Our First Footjob Here. Enjoy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Doing A Footjob For Him To Cum On My Feets. Our First Footjob Here. Enjoy
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308753.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308753.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Every Time He Look At Me He Want To Fuck Me. Blue Dress" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Every Time He Look At Me He Want To Fuck Me. Blue Dress
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308754.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308754.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Fuck My Ass Hard And Cum On My Strings - Amateur Maru Karv Redhead Teen" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Fuck My Ass Hard And Cum On My Strings - Amateur Maru Karv Redhead Teen
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308755.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308755.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Fun With My Hot Big Boobs Friend Emanuelly Raquel In Public Butt And Boobs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Fun With My Hot Big Boobs Friend Emanuelly Raquel In Public Butt And Boobs
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308756.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308756.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Girlfriend Best Friend Sucking My Cock In Our Garden With Facial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Girlfriend Best Friend Sucking My Cock In Our Garden With Facial
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308757.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308757.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Girlfriend Makes The Best Sloppy Blowjob And Let Me Cum All Over Her Face" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Girlfriend Makes The Best Sloppy Blowjob And Let Me Cum All Over Her Face
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308758.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308758.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Hardcore Blowjob And Anal Ends In Facial And Alot Of Makeup Tears" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Hardcore Blowjob And Anal Ends In Facial And Alot Of Makeup Tears
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308759.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308759.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - He Came On My Face But I Keep Sucking His Dick And He Came Again" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - He Came On My Face But I Keep Sucking His Dick And He Came Again
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308760.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308760.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - He Creampie My Pussy And I Eat It All. Amateur Stepsister Nerd Girl" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - He Creampie My Pussy And I Eat It All. Amateur Stepsister Nerd Girl
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308761.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308761.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - He Cum To Fast I Swallow It. Public Blowjob And Anal At Night" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - He Cum To Fast I Swallow It. Public Blowjob And Anal At Night
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308762.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308762.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - He Lick All My Pussy So Good I Need To Let Him Fuck My Ass And Creampie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - He Lick All My Pussy So Good I Need To Let Him Fuck My Ass And Creampie
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308763.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308763.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Hot Redhead Instagram Teen Sucking Cock After Gym" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Hot Redhead Instagram Teen Sucking Cock After Gym
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308764.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308764.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - I Just Love To Suck A Big Cock Omg And Feel All That Cum On My Face" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - I Just Love To Suck A Big Cock Omg And Feel All That Cum On My Face
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308765.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308765.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - I Suck Him So Good He Cummed 2 Times And Cummed Alot In My Mouth" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - I Suck Him So Good He Cummed 2 Times And Cummed Alot In My Mouth
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308766.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308766.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Just A Huge Cumshot Tease Before Going To Bed" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Just A Huge Cumshot Tease Before Going To Bed
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308767.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308767.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Just Some Public Pussy Fun And Blowjob I Love Publics Hahaha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Just Some Public Pussy Fun And Blowjob I Love Publics Hahaha
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308768.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308768.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Love To Masturbate In Every Public Place I Go" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Love To Masturbate In Every Public Place I Go
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308769.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308769.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Love To Suck And Getting That Cum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Love To Suck And Getting That Cum
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308770.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308770.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Maru Redhead Teen Blowjob And Huge Facial Cumshot" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Maru Redhead Teen Blowjob And Huge Facial Cumshot
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308771.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308771.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Nutaku And Redhead   Anal   Blowjob   Mouth Cumshot" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Nutaku And Redhead   Anal   Blowjob   Mouth Cumshot
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308772.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308772.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Ohhh That Cum Creampie Look So Good Hardcore And Romantic Sex" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Ohhh That Cum Creampie Look So Good Hardcore And Romantic Sex
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308773.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308773.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Perfect Teen Redhead Sucking With Cum In Mouth" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Perfect Teen Redhead Sucking With Cum In Mouth
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308774.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308774.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Playing At The Store Dresser With A Butt Plug" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Playing At The Store Dresser With A Butt Plug
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308775.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308775.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Public Blowjob In The Street And He Cums On All My Face" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Public Blowjob In The Street And He Cums On All My Face
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308776.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308776.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Redhead Girlfriend The Best Blowjob Ever And Then Swallow All My Cumshot" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Redhead Girlfriend The Best Blowjob Ever And Then Swallow All My Cumshot
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308777.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308777.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Redhead Teen Whore Wants To Test Her New Phone Sucking My Cock And Cum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Redhead Teen Whore Wants To Test Her New Phone Sucking My Cock And Cum
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308778.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308778.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - She Aways Delivery The Best Blowjob Smartphone Video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - She Aways Delivery The Best Blowjob Smartphone Video
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308779.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308779.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - She Is So Delicious Blowjob And Analsex With That Ass And Cum In Mouth" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - She Is So Delicious Blowjob And Analsex With That Ass And Cum In Mouth
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308780.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308780.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - She Made Twerk For Me And We Ended Up Fucking Perfect Redhead Twerk Ass" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - She Made Twerk For Me And We Ended Up Fucking Perfect Redhead Twerk Ass
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308781.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308781.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - She Swallow Everydrop Of Cum Blowjob And Anal With That Redhead Ass" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - She Swallow Everydrop Of Cum Blowjob And Anal With That Redhead Ass
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308782.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308782.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - She Was Playing Fortnite Them She Came Suck My Cock Big Facial In Her Face" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - She Was Playing Fortnite Them She Came Suck My Cock Big Facial In Her Face
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308783.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308783.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Sloppy Wet Blowjob Asmr With Cum On My Face And Tits" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Sloppy Wet Blowjob Asmr With Cum On My Face And Tits
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308784.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308784.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Snapchat Redhead Amateur Teen Get Ass Fucked And Anal Creampie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Snapchat Redhead Amateur Teen Get Ass Fucked And Anal Creampie
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308785.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308785.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Snapchat Teen Having Sex In The Pool" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Snapchat Teen Having Sex In The Pool
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308786.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308786.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Step Sister Redhead Teen Ass Fucking And Cuming In That Beauty Pussy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Step Sister Redhead Teen Ass Fucking And Cuming In That Beauty Pussy
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308787.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308787.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Super Hot Naughty Teen Playing With Her New Huge Dildo And Toy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Super Hot Naughty Teen Playing With Her New Huge Dildo And Toy
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308788.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308788.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Teen Blowjob And Anal With That Big Cock Till Cum In Mouth At Night" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Teen Blowjob And Anal With That Big Cock Till Cum In Mouth At Night
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308789.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308789.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Teen College Sucking A Bwc And Eating All The Cumshot Creampie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Teen College Sucking A Bwc And Eating All The Cumshot Creampie
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308790.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308790.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Teen Girlfriend Masturbates In Shower And Post It On Snapchat Leaked" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Teen Girlfriend Masturbates In Shower And Post It On Snapchat Leaked
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308791.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308791.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Teen Masturbate With A Big Dildo After Streaming" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Teen Masturbate With A Big Dildo After Streaming
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308792.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308792.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Teen Redhead Anal Sex With My Panties On I Dont Even Take My Lingerie Off" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Teen Redhead Anal Sex With My Panties On I Dont Even Take My Lingerie Off
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308793.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308793.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Teen Step Sister Writing Her Diary Ended Up In Blowjob And Anal At Morning" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Teen Step Sister Writing Her Diary Ended Up In Blowjob And Anal At Morning
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308794.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308794.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Tinder Teen Let Me Film Her Sucking And Swallow All The Cum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Tinder Teen Let Me Film Her Sucking And Swallow All The Cum
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308795.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308795.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Using My New Toy While He Fucked Me 2 Orgasms And 2 Cumshots" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Using My New Toy While He Fucked Me 2 Orgasms And 2 Cumshots
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308796.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308796.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - We Fucked In The Fire Escape At The Mall Cumshot Facial And Keep Fucking" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - We Fucked In The Fire Escape At The Mall Cumshot Facial And Keep Fucking
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308797.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308797.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Maru Karv - Wood Witch Blowjob For Halloween Witch Cosplay For Halloween Public Video" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Maru Karv - Wood Witch Blowjob For Halloween Witch Cosplay For Halloween Public Video
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308798.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308798.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - Anatomy - Clothes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - Anatomy - Clothes
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308799.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308799.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - Anatomy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - Anatomy
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308800.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308800.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - Art Imitating Life" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - Art Imitating Life
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308801.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308801.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - Bath Time Is The Best Time" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - Bath Time Is The Best Time
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308802.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308802.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - Bj Lessons W Mia Khalifa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - Bj Lessons W Mia Khalifa
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308803.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308803.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - Black Vs White My Ultimate Dick Challenge" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - Black Vs White My Ultimate Dick Challenge
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308804.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308804.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - Here Is My Body I Hope You Like It" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - Here Is My Body I Hope You Like It
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308805.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308805.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - I Am A Sucker For A Qb" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - I Am A Sucker For A Qb
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308806.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308806.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - I Popped A Fans Cherry" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - I Popped A Fans Cherry
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308807.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308807.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - Masturbation" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - Masturbation
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308808.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308808.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - Me Getting Extra Dick Behind The Scenes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6sI0yLJXkmrbSJzVRCmmfa4nhx.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - Me Getting Extra Dick Behind The Scenes
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308809.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308809.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - My Big Black Threesome" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - My Big Black Threesome
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308810.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308810.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - My First Creampie" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - My First Creampie
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308811.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308811.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - My Porn Audition" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - My Porn Audition
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308812.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308812.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - Tries A Big Black Dick" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - Tries A Big Black Dick
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308813.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308813.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mia Khalifa - Vagina" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Mia Khalifa - Vagina
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308814.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308814.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mike Colucci And Harry Louis" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Mike Colucci And Harry Louis
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308815.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308815.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Mofos Public Pick Ups Armenian Babe Gets Cum in Her Eye" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Mofos Public Pick Ups Armenian Babe Gets Cum in Her Eye
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308816.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308816.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Ninfomaniaca Vol. 1" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Ninfomaniaca Vol. 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308817.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308817.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Ninfomaniaca Vol. 2" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Ninfomaniaca Vol. 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308818.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308818.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: PornFidelity Stella Cox" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: PornFidelity Stella Cox
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308819.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308819.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Scorehd Mia Khalifa - A Body Made For Sex" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Scorehd Mia Khalifa - A Body Made For Sex
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308820.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308820.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Scorehd Mia Khalifa - Blow Job Mvp Award Winner" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Scorehd Mia Khalifa - Blow Job Mvp Award Winner
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308821.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308821.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Scorehd Mia Khalifa - Graduating Summa Cum Loud" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Scorehd Mia Khalifa - Graduating Summa Cum Loud
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308822.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308822.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Scorehd Mia Khalifa - Meet The Busty Girl Who Works At The Hamburger Joint" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Scorehd Mia Khalifa - Meet The Busty Girl Who Works At The Hamburger Joint
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308823.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308823.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: Scorehd Mia Khalifa - She Is Lovin It And Havin It Her Way" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Adulto: Scorehd Mia Khalifa - She Is Lovin It And Havin It Her Way
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308824.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308824.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adulto: The Drae Axtell Collection" tvg-logo="https://cdn-w.lucasentertainment.com/lucasentertainment/content/movies//LVP246/dvd_cover/LVP246_2D_front.jpg" group-title="FILMES | ADULTOS",Adulto: The Drae Axtell Collection
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308825.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308825.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: 1 Contos Eroticos" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: 1 Contos Eroticos
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308826.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308826.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: 2 Contos Eroticos" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/capaFull/capa-do-filme-em-hd-contos-eroticos-915.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: 2 Contos Eroticos
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308827.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308827.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: 3 Contos Eroticos" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/capaFull/capa-do-filme-em-hd-contos-eroticos-865.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: 3 Contos Eroticos
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308828.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308828.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: 4 Contos Eroticos" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-contos-eroticos-k-Frente-1054.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: 4 Contos Eroticos
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308829.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308829.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas:5 Vezes Mais Sexo" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-vezes-mais-sexo-Frente-369.jpg" group-title="FILMES | ADULTOS",Brasileirinhas:5 Vezes Mais Sexo
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308830.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308830.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: 11 Mulheres e Nenhum Segredo" tvg-logo="https://img1.jeedoo.com/600/1630681.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: 11 Mulheres e Nenhum Segredo
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308831.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308831.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Academia das Maravilhas" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-academia-das-maravilhas-Frente-469.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Academia das Maravilhas
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308832.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308832.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: A Campea Do Anal" tvg-logo="https://i.imgur.com/iAwslCC.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: A Campea Do Anal
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308833.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308833.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Agora e Hora das Poderosas 1" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-poderosas-Frente-401.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Agora e Hora das Poderosas 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308834.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308834.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Ai Que Do" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-ai-que-do-Frente-404.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Ai Que Do
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308835.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308835.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Amigas da Minha Irma 1" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-amigas-da-minha-irma-Hard-563.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Amigas da Minha Irma 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308836.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308836.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Amigas da Minha Irma 2" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-amigas-da-minha-irma-Frente-563.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Amigas da Minha Irma 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308837.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308837.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Anal Total 3" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/BR303.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Anal Total 3
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308838.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308838.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: As Mina Pira na Pica dos Meninos 1" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_733745-MLB40893752260_022020-O.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: As Mina Pira na Pica dos Meninos 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308839.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308839.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: As Mina Pira na Pica dos Meninos 2" tvg-logo="https://xxxparodyhd.net/wp-content/uploads/2019/07/1562134138_FHf3T4C.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: As Mina Pira na Pica dos Meninos 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308840.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308840.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Assim Voce Me Mata 1" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12408.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Assim Voce Me Mata 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308841.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308841.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Assim Voce Me Mata 2" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-assim-voce-me-mata-Frente-377.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Assim Voce Me Mata 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308842.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308842.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Babando de Tesao" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/capaFull/capa-do-filme-em-hd-babando-de-tesao-409.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Babando de Tesao
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308843.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308843.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Big Mack 1" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-big-macky-Hard-176.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Big Mack 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308844.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308844.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Big Mack 2" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12100.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Big Mack 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308845.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308845.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Brasibelezas - Vol. 2" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-brasibelezas-Frente-615.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Brasibelezas - Vol. 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308846.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308846.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Cafetao" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12067.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Cafetao
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308847.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308847.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Carnaval 2008" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-carnaval-Frente-984.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Carnaval 2008
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308848.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308848.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Carnaval 2013" tvg-logo="https://www.pornotorrent.eu/wp-content/uploads/covers/porno-torrent-Carnaval-2013-Brasileirinhas.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Carnaval 2013
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308849.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308849.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Carnaval com Gretchen" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_963611-MLB29000260787_122018-O.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Carnaval com Gretchen
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308850.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308850.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Carol Fodeu E Levou Gozada Na Boca" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/4593.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Carol Fodeu E Levou Gozada Na Boca
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308851.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308851.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Casal no Pau 1" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-casal-no-pau-Frente-225.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Casal no Pau 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308852.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308852.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Celebridade em Foco" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-celebridades-em-foco-Frente-150.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Celebridade em Foco
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308853.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308853.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Clube Prive 1" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_636141-MLB26996322685_032018-O.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Clube Prive 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308854.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308854.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Clube Prive 2" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_650908-MLB31684161613_082019-O.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Clube Prive 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308855.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308855.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Como Fazer uma Mulher Gozar Muito" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-como-fazer-uma-mulher-gozar-muito-Frente-537.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Como Fazer uma Mulher Gozar Muito
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308856.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308856.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Com Vergonha de Dar o Rabo" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12247.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Com Vergonha de Dar o Rabo
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308857.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308857.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Confissoes Relatos de Mulheres Fogosas" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12153.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Confissoes Relatos de Mulheres Fogosas
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308858.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308858.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Debutantes 2008" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-debutantes-Frente-248.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Debutantes 2008
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308859.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308859.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Depois dos 40 -2" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_986304-MLB27655109921_062018-O.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Depois dos 40 -2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308860.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308860.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Depois dos 40" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-depois-dos-ate-Frente-492.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Depois dos 40
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308861.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308861.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Estrelas em Busca de Prazer" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12114.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Estrelas em Busca de Prazer
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308862.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308862.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Familia Incestuosa 2" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/BR206.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Familia Incestuosa 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308863.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308863.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Fazendo Gang Bang Ao Vivo" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/capaFull/capa-do-filme-em-hd-a-teoria-do-gang-bang-733.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Fazendo Gang Bang Ao Vivo
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308864.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308864.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Fazendo Sacanagem" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-fazendo-sacanagem-Frente-547.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Fazendo Sacanagem
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308865.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308865.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Foda Me 2" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12012.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Foda Me 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308866.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308866.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Foi Daquele Jeito 2013" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/FOI.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Foi Daquele Jeito 2013
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308867.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308867.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Fome de Sexo" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12120.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Fome de Sexo
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308868.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308868.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Forum 27" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-forum-Frente-348.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Forum 27
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308869.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308869.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Gravando Com 2 Negoes Bem Dotados Angel Lima" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/3991.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Gravando Com 2 Negoes Bem Dotados Angel Lima
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308870.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308870.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Historias de uma Gueixa 1" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-historias-de-uma-gueixa-Frente-246.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Historias de uma Gueixa 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308871.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308871.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Invasao de Privacidade" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/DB121.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Invasao de Privacidade
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308872.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308872.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Julia Paes vs Regininha Poltergeist" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/capaFull/capa-do-filme-em-hd-julia-paes-x-regininha-poltergeist-562.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Julia Paes vs Regininha Poltergeist
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308873.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308873.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Louca Pra Dar o Cu" tvg-logo="https://dyncdn.me/posters2/c/c78c6dd83fff95e36c8555e164edd1d750961b37.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Louca Pra Dar o Cu
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308874.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308874.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Louquinha 1" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/2456.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Louquinha 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308875.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308875.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Louquinha 2" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-louquinha-Frente-382.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Louquinha 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308876.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308876.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Maria Chuteira" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-maria-chuteira-Frente-833.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Maria Chuteira
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308877.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308877.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Mas Que Beleza" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-mas-que-beleza-Hard-305.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Mas Que Beleza
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308878.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308878.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Ninfetas Gulosas 2" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-ninfetas-gulosas-Frente-43.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Ninfetas Gulosas 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308879.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308879.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Novatas do Porno" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-novatas-Frente-295.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Novatas do Porno
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308880.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308880.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: O Fenomeno Voltou" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-o-fenomeno-voltou-Frente-180.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: O Fenomeno Voltou
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308881.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308881.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: O Rei das Mulheres" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_952215-MLB25171197172_112016-O.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: O Rei das Mulheres
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308882.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308882.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: O Show de Luanda Boaz" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/capaFull/capa-do-filme-em-hd-o-show-de-luanda-boaz-530.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: O Show de Luanda Boaz
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308883.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308883.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Paraiso das Bundas" tvg-logo="https://streamporn.pw/wp-content/uploads/2018/05/1526616497_Capa-do-filme-paraiso-das-bundas-Frente-365.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Paraiso das Bundas
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308884.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308884.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Pecadora" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-pecadora-Frente-536.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Pecadora
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308885.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308885.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Quinteto Sexual" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/capa/Capa-do-filme-quinteto-sexual-Frente-945.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Quinteto Sexual
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308886.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308886.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Redondinho de 4" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-redondinho-de-Frente-426.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Redondinho de 4
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308887.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308887.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Regininha PolterGeist" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_637337-MLB28677018054_112018-O.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Regininha PolterGeist
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308888.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308888.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Salada De Frutas" tvg-logo="https://http2.mlstatic.com/D_NQ_NP_665979-MLB40256276780_122019-O.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Salada De Frutas
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308889.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308889.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Segredos" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/43006.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Segredos
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308890.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308890.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Show de Bundas 2" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12380.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Show de Bundas 2
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308891.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308891.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Show De Bundas Vol. 1" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/capaFull/capa-do-filme-em-hd-show-de-bundas-325.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Show De Bundas Vol. 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308892.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308892.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Show De Bundas Vol. 4" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-show-de-bundas-Tras-391.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Show De Bundas Vol. 4
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308893.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308893.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Show de Orgias" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-show-de-orgias-Frente-472.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Show de Orgias
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308894.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308894.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Teste de Atriz" tvg-logo="https://xxxparodyhd.net/wp-content/uploads/2018/03/1522316993_1511267144_5m57zsrywkjc.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Teste de Atriz
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308895.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308895.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Trepada Interracial" tvg-logo="https://brasileirinhashd.uol.com.br/arquivos/filmes/filme-selecionado/12379.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Trepada Interracial
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308896.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308896.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas:Triplex Anal 3" tvg-logo="https://pandamovie.info/wp-content/uploads/2019/01/1546836881_iens68lqf727481e6q42-185x278.jpg" group-title="FILMES | ADULTOS",Brasileirinhas:Triplex Anal 3
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308897.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308897.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas:Turbinadas" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/2636.jpg" group-title="FILMES | ADULTOS",Brasileirinhas:Turbinadas
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308898.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308898.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Vizinhas Gostosas 1" tvg-logo="https://i.imgur.com/kWJ07mC.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Vizinhas Gostosas 1
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308899.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308899.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas: Yumi Saito vs. a Nova Fernandinha Fernandez" tvg-logo="https://3.bp.blogspot.com/-W2BOQiSuJUk/V5y4cDLvEdI/AAAAAAAADq0/I0TrzZacxSYmSHuxcU5DPi0-LgIRSONKwCLcB/s1600/Capa-do-filme-yumi-saito-vs-nova-fernandinha-fernandez-Hard-577.jpg" group-title="FILMES | ADULTOS",Brasileirinhas: Yumi Saito vs. a Nova Fernandinha Fernandez
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308900.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308900.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinhas Carnaval 2020" tvg-logo="https://static1.brasileirinhas.com.br/Brasileirinhas/filme/290x409/Capa-do-filme-carnaval-brasileirinhas-Frente-1170.jpg" group-title="FILMES | ADULTOS",Brasileirinhas Carnaval 2020
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308901.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308901.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 01" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 01
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308902.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308902.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 02" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 02
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308903.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308903.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 03" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 03
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308904.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308904.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 04" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 04
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308905.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308905.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 05" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 05
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308906.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308906.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 06" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 06
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308907.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308907.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 07" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 07
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308908.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308908.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 08" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 08
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308909.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308909.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 09" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 09
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308910.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308910.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 10" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 10
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308911.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308911.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 11" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 11
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308912.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308912.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 12" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 12
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308913.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308913.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 13" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 13
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308914.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308914.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 14" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 14
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308915.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308915.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 15" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 15
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308916.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308916.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 16" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 16
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308917.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308917.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 17" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 17
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308918.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308918.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 18" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 18
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308919.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308919.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 19" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 19
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308920.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308920.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 20" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 20
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308921.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308921.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 21" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 21
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308922.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308922.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 22" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 22
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308923.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308923.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 23" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 23
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308924.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308924.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 24" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 24
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308925.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308925.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 25" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 25
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308926.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308926.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 26" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 26
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308927.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308927.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 27" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 27
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308928.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308928.mp4
 #EXTINF:-1 tvg-id="" tvg-name="XXX OnlyFans Lena The Plug 28" tvg-logo="http://188.40.106.104/adulto.jpg" group-title="FILMES | ADULTOS",XXX OnlyFans Lena The Plug 28
-http://dnsnoahtv.cmsppv.life:80/movie/7860863468/1888229438/308929.mp4
+http://dnsnoahtv.cmsppv.life:80/movie/1911337433/2709762823/308929.mp4
