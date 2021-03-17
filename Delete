@@ -2,11 +2,31 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="Smallville 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville 24hs
 http://dnsnoahtv.cmsppv.life:80/alexandra/ale2342/351410
-#EXTINF:-1 tvg-id="" tvg-name="kimetsu" tvg-logo="" group-title="CANAIS | 24 HORAS", Kimetsu1
-https://r1---sn-gpv7dn7d.c.drive.google.com/videoplayback?expire=1615546761&ei=SRFLYNmjDvL2zLUP9pGkwA8&ip=179.198.144.142&cp=QVRGV0ZfVVdUQlhPOlVJcDA4UnQ0YjVaV0VGblN5UHh4b3V4YTYwT1JNYlMzMFJJYnFJckJTQ0E&id=9d672d42ac876771&itag=18&source=webdrive&requiressl=yes&mh=bs&mm=32&mn=sn-gpv7dn7d&ms=su&mv=u&mvi=1&pl=23&ttl=transient&susc=dr&driveid=1H9jxxmxvKHMt2Y2gAm0P-LAZ2ZCb1TBB&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=7003.416&lmt=1607306421442628&mt=1615531906&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgcvfaexUgLwQuThUscVsiaSxc3Nm1zEyCYsPjswwMyQsCIF3Cg0JYueFdDBj_wYcRkhBYpyKlMqHmXCWuV5jdrqEE&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAP4QEVhkSi8X6a9joTNKr3h7q3AGSOkIOzbXCYjWDXMOAiEAsZL8BZ1SygqQRjomjtUvQrSq-5KdE1DtfGEBpG2FEMI=&cpn=8njy-f61Iq_KSstN&c=WEB_EMBEDDED_PLAYER&cver=1.20210310.3.0
-#EXTINF:-1 tvg-id="" tvg-name="kimetsu" tvg-logo="" group-title="CANAIS | 24 HORAS", Kimetsu
-https://r1---sn-gpv7dn7k.c.drive.google.com/videoplayback?expire=1615546726&ei=JhFLYPPmOO6D0_wP7s23sAU&ip=179.198.144.142&cp=QVRGV0ZfVVdQR1hPOlVJcDA4Tnk0YjVaV0VGbk9kUHh4b3V4YTY2VFJNYlMzMFJJeHZJckJTQ0E&id=1d874f31c8444d60&itag=18&source=webdrive&requiressl=yes&mh=H_&mm=32&mn=sn-gpv7dn7k&ms=su&mv=u&mvi=1&pl=23&ttl=transient&susc=dr&driveid=1UsmB3k00h0Td9RuQlmyATQawM4bodo-G&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=7001.698&lmt=1607398873295286&mt=1615531906&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhALbZZgUATBNyxKXfk4vyQTMzMgLm480HyZlfevqzvYQJAiB9iTYlj14t6knj-RAuiaUCyDHuFm60fyKp0DcnjRpPvw==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgB4beSNt6b8JV6EMy1nT_c95sqtJM3fktEa9OmDubZK4CIHGUU5LkDdG2ABDKOfQgi9u_dXIfDZXLKozdEeq-j2Df&cpn=YXagyOicdMtm11YI&c=WEB_EMBEDDED_PLAYER&cver=1.20210310.3.0
-#EXTINF:-1 tvg-id="" tvg-name="kimetsu p2" tvg-logo="" group-title="CANAIS | 24 HORAS",Kimetsu P2
-https://api.anroll.net/od/%21AAgLH6oTyaysdtg/F382BA74CBAEFEF0%21227/filme.mp4?t=1615532228234
-#EXTINF:-1 tvg-id="" tvg-name="kimetsu p2" tvg-logo="" group-title="CANAIS | 24 HORAS",Kimetsu P3
-https://tgxgfa.bn.files.1drv.com/y4m2OxY1Pb7oZ-lTHWQ9GNuH8AfoQ45UEI67_I0Xli0Pi6B3wtiiYOnPXNwIzIVo5I-GD5y8E3A__nOhUFxmOPmw9s771BcCzjKZsOW8dwn2hCgmu6cJVdpbDZe3Cw0FRqTV20QBqboGZf9cJZ24wDREiEd5PQpvdlS0rBBAEMOR3Hk4-mhKNp93MZl2PkyHPUGxbydAQfxKO7pe1l9sNx_5mDpsNG_ln7LMnIJFdQcGJM/filme.mp4?download&psid=1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7NeAtW9lS4XOoXkf8UL1pzwfsA.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Super: Broly (2018)
+http://noah.tvdns.tech:80/movie/941688/061977/456571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Broly Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUGMB9qgd8jYmvDeVOu1yJeHkhM.jpg" group-title="FILMES | LEGENDADOS",Dragon Ball Super: Broly Legendado
+http://noah.tvdns.tech:80/movie/941688/061977/458468.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z - Broly o Lendario Super Saiyajin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yufW8vCgxW2o3egUfY7ivN5rC9B.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z - Broly o Lendario Super Saiyajin
+http://noah.tvdns.tech:80/movie/941688/061977/456573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Goku O Super Saiyajin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CxRXbiutg7vn2rNTPFN3wGVyRe.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z Goku O Super Saiyajin
+http://noah.tvdns.tech:80/movie/941688/061977/456579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: A Batalha dos Deuses (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzE6wdln3xvDwWnfeYvAOKxQMR0.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: A Batalha dos Deuses (2013)
+http://noah.tvdns.tech:80/movie/941688/061977/456577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: A Batalha Nos Dois Mundos (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yufW8vCgxW2o3egUfY7ivN5rC9B.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: A Batalha Nos Dois Mundos (1993)
+http://noah.tvdns.tech:80/movie/941688/061977/456572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Ataque do Dragão (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HKCZmoTK3gwYJAFBTvJETaaDFt.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: O Ataque do Dragão (1995)
+http://noah.tvdns.tech:80/movie/941688/061977/456574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Combate Final, Bio-Broly (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYENLK3LUDGyqz9t2G4wivDMR3W.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: O Combate Final, Bio-Broly (1994)
+http://noah.tvdns.tech:80/movie/941688/061977/456575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Homem Mais Forte do Mundo (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQyOTWpSQOyzLpHEOCpQwFFF0dJ.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: O Homem Mais Forte do Mundo (1990)
+http://noah.tvdns.tech:80/movie/941688/061977/456580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Renascimento de Freeza (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oth0VBziwe25mDzkJ6XzwmUCCDC.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: O Renascimento de Freeza (2015)
+http://noah.tvdns.tech:80/movie/941688/061977/456576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Retorno dos Androides (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6O0cgVpYbYeiw0kwjY8h93sUuL.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: O Retorno dos Androides (1992)
+http://noah.tvdns.tech:80/movie/941688/061977/456581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Uma Vingança Para Freeza (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSPplgwerlYhDWV362A1oec9Hg2.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: Uma Vingança Para Freeza (1991)
+http://noah.tvdns.tech:80/movie/941688/061977/456582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: A Lenda de Shenlong (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CxRXbiutg7vn2rNTPFN3wGVyRe.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball: A Lenda de Shenlong (1986)
+http://noah.tvdns.tech:80/movie/941688/061977/456578.mp4
