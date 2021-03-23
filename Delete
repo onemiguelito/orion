@@ -3,6 +3,32 @@
 #EXTINF:-1 tvg-id="" tvg-name="Smallville 24hs" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville 24hs
 http://dnsnoahtv.cmsppv.life:80/alexandra/ale2342/351410
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T1E21
+https://www.superflix.net/?trembed=1&trid=73941&trtype=2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T2E1
+https://www.superflix.net/?trembed=1&trid=74380&trtype=2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T2E2
+https://www.superflix.net/?trembed=1&trid=74381&trtype=2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T2E3
+https://www.superflix.net/?trembed=1&trid=74382&trtype=2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T2E4
+https://www.superflix.net/?trembed=1&trid=74383&trtype=2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T2E5
+https://www.superflix.net/?trembed=1&trid=74384&trtype=2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T2E6
+https://www.superflix.net/?trembed=1&trid=74385&trtype=2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T2E7
+https://www.superflix.net/?trembed=1&trid=74386&trtype=2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T2E8
+https://www.superflix.net/?trembed=1&trid=74387&trtype=2
+
+
+
+
 #EXTM3U
 #EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 1
 https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/01.MP4
