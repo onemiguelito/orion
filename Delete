@@ -1,80 +1,492 @@
-#M3U
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg" group-title="FILMES | FANTASIA & FICÇÃO",Doutor Estranho (2016)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/458051.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LDJ",LDJ
+https://mfshd.net/open/stream.php?video=mLbIfoxkWwcJ-zyxy3X6GR1xy9dNhly6b9amQqinsqZgVrjDEioKXoVxIeYXeTcnlTrteiTX3lYkgXmRNi0W3Q==
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LDJ",LDJ zack
+http://noah.tvdns.tech:80/movie/941029/966115/528174.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LDJ",LDJ
+https://cdn50.azureedge.net/RCFServer5/ondemand/LGDJSTCZCKSNYDRLEG.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LDJ",LDJ
 
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg" group-title="FILMES | FANTASIA & FICÇÃO",Doutor Estranho (2016)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/458051.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Estranho 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzvKfp1g07jHNBRYpi74kDsWGIQ.jpg" group-title="FILMES | 4K",Doutor Estranho 4K
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/457859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Sono (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Sp02vj2faWSF72OqIM9E7HuSG9.jpg" group-title="FILMES | TERROR",Doutor Sono (2019)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/455838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Sono (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Sp02vj2faWSF72OqIM9E7HuSG9.jpg" group-title="FILMES | TERROR",Doutor Sono (2019)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doutor Sono 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzvKfp1g07jHNBRYpi74kDsWGIQ.jpg" group-title="FILMES | 4K",Doutor Sono 4K [HDR]
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/457860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dovlatov [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUGMB9qgd8jYmvDeVOu1yJeHkhM.jpg" group-title="FILMES | LEGENDADOS",Dovlatov [L]
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/458466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Downhill (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruLqLb2bfWKykckxVlVZayuBOgW.jpg" group-title="FILMES | TERROR",Downhill (2020)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/455839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Downhill (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ruLqLb2bfWKykckxVlVZayuBOgW.jpg" group-title="FILMES | TERROR",Downhill (2020)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUGMB9qgd8jYmvDeVOu1yJeHkhM.jpg" group-title="FILMES | LEGENDADOS",Downton Abbey Legendado
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/458467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doze Homens e Outro Segredo (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfyER2uKU2lBJGp4pxrFNCCcUAP.jpg" group-title="FILMES | AÇÃO",Doze Homens e Outro Segredo (2004)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/375701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Socrates (1935)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sn8wrzUkKnrwRF2ZXzMpxJRFTsJ.jpg" group-title="FILMES | DRAMA",Dr. Socrates (1935)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/454738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dr. Socrates (1935)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sn8wrzUkKnrwRF2ZXzMpxJRFTsJ.jpg" group-title="FILMES | DRAMA",Dr. Socrates (1935)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/455589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dracula: A História Nunca Contada (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojK4YveJIolLWyZ5A4IACCTywsK.jpg" group-title="FILMES | FANTASIA & FICÇÃO",Dracula: A História Nunca Contada (2014)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/458052.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Broly (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b7NeAtW9lS4XOoXkf8UL1pzwfsA.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Super: Broly (2018)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Broly Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUGMB9qgd8jYmvDeVOu1yJeHkhM.jpg" group-title="FILMES | LEGENDADOS",Dragon Ball Super: Broly Legendado
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/458468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z - Broly o Lendario Super Saiyajin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yufW8vCgxW2o3egUfY7ivN5rC9B.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z - Broly o Lendario Super Saiyajin
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z Goku O Super Saiyajin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CxRXbiutg7vn2rNTPFN3wGVyRe.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z Goku O Super Saiyajin
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: A Batalha dos Deuses (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzE6wdln3xvDwWnfeYvAOKxQMR0.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: A Batalha dos Deuses (2013)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456577.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: A Batalha Nos Dois Mundos (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yufW8vCgxW2o3egUfY7ivN5rC9B.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: A Batalha Nos Dois Mundos (1993)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456572.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Ataque do Dragão (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HKCZmoTK3gwYJAFBTvJETaaDFt.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: O Ataque do Dragão (1995)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456574.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Combate Final, Bio-Broly (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYENLK3LUDGyqz9t2G4wivDMR3W.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: O Combate Final, Bio-Broly (1994)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456575.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Homem Mais Forte do Mundo (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQyOTWpSQOyzLpHEOCpQwFFF0dJ.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: O Homem Mais Forte do Mundo (1990)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Renascimento de Freeza (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oth0VBziwe25mDzkJ6XzwmUCCDC.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: O Renascimento de Freeza (2015)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: O Retorno dos Androides (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k6O0cgVpYbYeiw0kwjY8h93sUuL.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: O Retorno dos Androides (1992)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z: Uma Vingança Para Freeza (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tSPplgwerlYhDWV362A1oec9Hg2.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball Z: Uma Vingança Para Freeza (1991)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball: A Lenda de Shenlong (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CxRXbiutg7vn2rNTPFN3wGVyRe.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragon Ball: A Lenda de Shenlong (1986)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragonball Evolution (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23PcKOqNdhKeMFzORzQGn5eC44N.jpg" group-title="FILMES | AÇÃO",Dragonball Evolution (2009)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/375702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragão Vermelho (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oySMlgyYNYJH3Ab64mc8qbMGSlT.jpg" group-title="FILMES | TERROR",Dragão Vermelho (2002)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/455840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragão Vermelho (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oySMlgyYNYJH3Ab64mc8qbMGSlT.jpg" group-title="FILMES | TERROR",Dragão Vermelho (2002)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragões: Equipe de Resgate: Em Busca do Dragão Dourado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afecdT4uWB9sjo6MnnnjOQmRljq.jpg" group-title="FILMES | ANIMAÇÃO & INFANTIL",Dragões: Equipe de Resgate: Em Busca do Dragão Dourado (2020)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/456583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dreamgirls (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xD45IhS8QcjivoYwk8pajU0je5.jpg" group-title="FILMES | DRAMA",Dreamgirls (2006)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/454255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dreamgirls (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xD45IhS8QcjivoYwk8pajU0je5.jpg" group-title="FILMES | DRAMA",Dreamgirls (2006)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/455106.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dreamland [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUGMB9qgd8jYmvDeVOu1yJeHkhM.jpg" group-title="FILMES | LEGENDADOS",Dreamland [L]
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/458469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Driveways [L]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUGMB9qgd8jYmvDeVOu1yJeHkhM.jpg" group-title="FILMES | LEGENDADOS",Driveways [L]
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/458470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Drones (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQoFSuLoZn3ZvDzwfcugEsIATHu.jpg" group-title="FILMES | FANTASIA & FICÇÃO",Drones (2013)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/458053.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duas de Mim (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrs1YqNT9HeZfQaXENohXBvIPWS.jpg" group-title="FILMES | COMÉDIA",Duas de Mim (2017)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/453281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duas Por Uma (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7u85jbkrHGV6sPrV6Y6A3wez90.jpg" group-title="FILMES | LANÇAMENTOS",Duas Por Uma (2020)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/442307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duas Rainhas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFw9yOMb8M7tPmXXXY2xkInmSkA.jpg" group-title="FILMES | DRAMA",Duas Rainhas (2018)
-http://noah.tvdns.tech:80/movie/FbioBeckheuser/heusrBeckheser/454256.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T3E06
+https://workstation.canais.ink/RCServer01/videos/SMLLVLT03EP06.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T3E07
+https://workstation.canais.ink/RCServer01/videos/SMLLVLT03EP07.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T3E08
+https://workstation.canais.ink/RCServer01/videos/SMLLVLT03EP08.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T3E09
+https://workstation.canais.ink/RCServer01/videos/SMLLVLT03EP09.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T3E10
+https://workstation.canais.ink/RCServer01/videos/SMLLVLT03EP10.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T3E11
+https://workstation.canais.ink/RCServer01/videos/SMLLVLT03EP11.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | 24 HORAS",Smallville T3E12
+https://workstation.canais.ink/RCServer01/videos/SMLLVLT03EP12.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/sBoXD9QOkt6BvdevIeAIxfv9k6p.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E10
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E11" tvg-logo="https://image.tmdb.org/t/p/w300/8yCbqDPUh1uXZ49amuf4iSoN5No.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E11
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E12" tvg-logo="https://image.tmdb.org/t/p/w300/yL7AL2zQzP6OOCMLa0qFC8PD6GV.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E12
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E13" tvg-logo="https://image.tmdb.org/t/p/w300/kyl7qSz8o8jClZW5jTLhLh4slyY.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E13
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E14" tvg-logo="https://image.tmdb.org/t/p/w300/tl6ic5vWXyH4WtTj4OhRgc4axtm.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E14
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E15" tvg-logo="https://image.tmdb.org/t/p/w300/jN8fYK6Dx5AEFWl8w59jXhwZhAz.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E15
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E16" tvg-logo="https://image.tmdb.org/t/p/w300/gbwW5lRq5ePkpjo9VSZ4dLo9M3k.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E16
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E17" tvg-logo="https://image.tmdb.org/t/p/w300/lAaP00MTwZxVgNPMlvMw14aC24e.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E17
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E18" tvg-logo="https://image.tmdb.org/t/p/w300/uc08U8j3DslZalCAD5B8is7qbNQ.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E18
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E19" tvg-logo="https://image.tmdb.org/t/p/w300/kNeDGMnyoYDRFn93BkwvSFBd3rD.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E19
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E20" tvg-logo="https://image.tmdb.org/t/p/w300/9bBGHb34KeokmO7suoVcVB5U2rh.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E20
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E21" tvg-logo="https://image.tmdb.org/t/p/w300/aAcWnyPyb99wGJEi6wE8CDl2qjo.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E21
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S03 E22" tvg-logo="https://image.tmdb.org/t/p/w300/fnllfgnDicI7MaZP7aW5g5wnujJ.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S03 E22
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/xptnKDz0Fv2KKMmNMsWqnkRYxbU.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E01
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/pcwrVGxVxXjSlygRXQXG9Xvf4Hi.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E02
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3eAfvpyqAmWZeRrLmrOGkifvaZd.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E03
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/vuH1RAbB3JDxrMLPq4f8E3cDedg.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E04
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/8zUnzfupGo5AW4mbT6nWftFplNp.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E05
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/cfmBdsV4AJgwgikmmRoWByIIJz3.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E06
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/iTriLyZEzl48RXldX8s38sDakyc.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E07
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E08" tvg-logo="https://image.tmdb.org/t/p/w300/6CTVKLND9ei4EkRetvBOkda17xV.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E08
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E09" tvg-logo="https://image.tmdb.org/t/p/w300/NGc4bCOxG6ubTplQKgtStglM46.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E09
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E10" tvg-logo="https://image.tmdb.org/t/p/w300/3J14RZFMVpwsfDc3F8yu9DuysT8.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E10
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E11" tvg-logo="https://image.tmdb.org/t/p/w300/o2y2R6765c4jwQfNNhAaJPHRwrP.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E11
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Smallville: As Aventuras do Superboy S04 E12" tvg-logo="https://image.tmdb.org/t/p/w300/nl1bKpLDkkryIwrYxXy4cxu6f7g.jpg" group-title="SÉRIES | S",Smallville: As Aventuras do Superboy S04 E12
+http://noah.tvdns.tech:80/series/FbioBeckheuser/heusrBeckheser/495060.mp4
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 1
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/01.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 2
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/02.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 3
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/03.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/04.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 5
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/05.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 6
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/06.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 7
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/07.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 8
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/08.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 9
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/09.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 10
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/10.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 11
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/11.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 12
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/12.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 13
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/13.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 14
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/14.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 15
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/15.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 16
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/16.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 17
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/17.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 18
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/18.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 19
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/19.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 20
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/20.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 21
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/21.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 22
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/22.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 23
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/23.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 24
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/24.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 25
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/25.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 26
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/26.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 27
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/27.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 28
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/28.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 29
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/29.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 30
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/30.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 31
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/31.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 32
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/32.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 33
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/33.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 34
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/34.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 35
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/35.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 36
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/36.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 37
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/37.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 38
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/38.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 39
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/39.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 40
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/40.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 41
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/41.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 42
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/42.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 43
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/43.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 44
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/44.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 45
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/45.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 46
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/46.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 47
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/47.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 48
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/48.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 49
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/49.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 50
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/50.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 51
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/51.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 52
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/52.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 53
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/53.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 54
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/54.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 55
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/55.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 56
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/56.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 57
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/57.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 58
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/58.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 59
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/59.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 60
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/60.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 61
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/61.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 62
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/62.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 63
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/63.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 64
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/64.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 65
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/65.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 66
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/66.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 67
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/67.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 68
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/68.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 69
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/69.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 70
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/70.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 71
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/71.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 72
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/72.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 73
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/73.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 74
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/74.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 75
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/75.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 76
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/76.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 77
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/77.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 78
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/78.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 79
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/79.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 80
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/80.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 81
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/81.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 82
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/82.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 83
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/83.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 84
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/84.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 85
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/85.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 86
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/86.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 87
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/87.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 88
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/88.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 89
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/89.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 90
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/90.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 91
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/91.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 92
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/92.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 93
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/93.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 94
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/94.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 95
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/95.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 96
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/96.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 97
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/97.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 98
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/98.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 99
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/99.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 100
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/100.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 101
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/101.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 102
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/102.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 103
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/103.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 104
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/104.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 105
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/105.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 106
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/106.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 107
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/107.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 108
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/108.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 109
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/109.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 110
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/110.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 111
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/111.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 112
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/112.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 113
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/113.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 114
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/114.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 115
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/115.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 116
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/116.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 117
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/117.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 118
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/118.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 119
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/119.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 120
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/120.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 121
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/121.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 122
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/122.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 123
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/123.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 124
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/124.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 125
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/125.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 126
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/126.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 127
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/127.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 128
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/128.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 129
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/129.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 130
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/130.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 131
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/131.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 132
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/132.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 133
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/133.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 134
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/134.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 135
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/135.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 136
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/136.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 137
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/137.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 138
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/138.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 139
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/139.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 140
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/140.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 141
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/141.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 142
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/142.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 143
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/143.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 144
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/144.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 145
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/145.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 146
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/146.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 147
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/147.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 148
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/148.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 149
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/149.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 150
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/150.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 151
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/151.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 152
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/152.MP4
+#EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 153
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/153.MP4
+
+
+
+
+#EXTINF:0 group-title="Dragon Ball Kai" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball kai 1
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/01.MP4
+
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/02.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/03.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/04.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/05.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/06.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/07.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/08.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/09.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/10.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/11.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/12.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/13.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/14.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/15.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/16.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/17.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/18.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/19.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/20.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/21.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/22.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/23.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/24.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/25.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/26.MP4
+https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-kai-dublado/27.MP4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS CLÁSSICAS" tvg-logo="https://jaquelinefernandes.com.br/wp-content/uploads/2019/05/brasileirinhas.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS CLÁSSICAS
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461226
+#EXTINF:-1 tvg-id="" tvg-name="CINE ADULTO" tvg-logo="http://streamd.cmsppv.life/LOGOS/Adulto/CANAL%20ADULTO.png" group-title="CANAIS | ADULTOS",CINE ADULTO
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461230
+#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS CLÁSSICAS" tvg-logo="https://jaquelinefernandes.com.br/wp-content/uploads/2019/05/brasileirinhas.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS CLÁSSICAS
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461226
+#EXTINF:-1 tvg-id="" tvg-name="CINE ADULTO" tvg-logo="http://streamd.cmsppv.life/LOGOS/Adulto/CANAL%20ADULTO.png" group-title="CANAIS | ADULTOS",CINE ADULTO
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461230
+#EXTINF:-1 tvg-id="Playboy TV" tvg-name="PLAYBOY SD" tvg-logo="http://streamd.cmsppv.life/LOGOS/Adulto/PLAYBOY%20TV.png" group-title="CANAIS | ADULTOS",PLAYBOY SD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460704
+#EXTINF:-1 tvg-id="Playboy TV" tvg-name="PLAYBOY FHD H265" tvg-logo="http://streamd.cmsppv.life/LOGOS/Adulto/PLAYBOY%20TV.png" group-title="CANAIS | ADULTOS",PLAYBOY FHD H265
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460705
+#EXTINF:-1 tvg-id="Playboy TV" tvg-name="PLAYBOY HD" tvg-logo="http://streamd.cmsppv.life/LOGOS/Adulto/PLAYBOY%20TV.png" group-title="CANAIS | ADULTOS",PLAYBOY HD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460706
+#EXTINF:-1 tvg-id="Playboy TV" tvg-name="PLAYBOY¹" tvg-logo="http://streamd.cmsppv.life/LOGOS/Adulto/PLAYBOY%20TV.png" group-title="CANAIS | ADULTOS",PLAYBOY¹
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460707
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="SEXTREME SD" tvg-logo="https://uploaddeimagens.com.br/images/001/277/692/full/Sextreme.png" group-title="CANAIS | ADULTOS",SEXTREME SD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460799
+#EXTINF:-1 tvg-id="" tvg-name="SEXPRIVE HD" tvg-logo="http://streamd.cmsppv.life/LOGOS/Adulto/SEXPRIVE.png" group-title="CANAIS | ADULTOS",SEXPRIVE HD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460800
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="SEXTREME³" tvg-logo="https://uploaddeimagens.com.br/images/001/277/692/full/Sextreme.png" group-title="CANAIS | ADULTOS",SEXTREME³
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460801
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="SEXY HOT SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png" group-title="CANAIS | ADULTOS",SEXY HOT SD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460802
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="SEXY HOT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png" group-title="CANAIS | ADULTOS",SEXY HOT HD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460803
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="SEXYHOT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png" group-title="CANAIS | ADULTOS",SEXYHOT FHD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460804
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="SEXYHOT FHD H265" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png" group-title="CANAIS | ADULTOS",SEXYHOT FHD H265
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460805
+#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="SEXYHOT¹" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Sexy_Hot_logo.png" group-title="CANAIS | ADULTOS",SEXYHOT¹
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460806
+#EXTINF:-1 tvg-id="Venus" tvg-name="VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="CANAIS | ADULTOS",VENUS
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460956
+#EXTINF:-1 tvg-id="Venus" tvg-name="VENUS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="CANAIS | ADULTOS",VENUS FHD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460957
+#EXTINF:-1 tvg-id="Venus" tvg-name="VENUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="CANAIS | ADULTOS",VENUS HD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460958
+
+
+#EXTINF:-1 tvg-id="BBB21 - CAM 1" tvg-name="BBB CAM 1" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB CAM 1
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461338
+#EXTINF:-1 tvg-id="BBB21 - CAM 10" tvg-name="BBB CAM 10" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB CAM 10
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461345
+#EXTINF:-1 tvg-id="BBB21 - CAM 11" tvg-name="BBB CAM 11" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB CAM 11
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461339
+#EXTINF:-1 tvg-id="BBB21 - CAM 2" tvg-name="BBB CAM 2" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB CAM 2
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461347
+#EXTINF:-1 tvg-id="BBB21 - CAM 3" tvg-name="BBB CAM 3" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB CAM 3
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461342
+#EXTINF:-1 tvg-id="BBB21 - CAM 4" tvg-name="BBB CAM 4" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB CAM 4
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461343
+#EXTINF:-1 tvg-id="BBB21 - CAM 5" tvg-name="BBB CAM 5" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB CAM 5
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461340
+#EXTINF:-1 tvg-id="BBB21 - CAM 6" tvg-name="BBB CAM 6" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB CAM 6
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461341
+#EXTINF:-1 tvg-id="BBB21 - CAM 7" tvg-name="BBB CAM 7" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB CAM 7
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461344
+#EXTINF:-1 tvg-id="BBB21 - CAM 8" tvg-name="BBB CAM 8" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB CAM 8
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461348
+#EXTINF:-1 tvg-id="BBB21 - CAM 9" tvg-name="BBB CAM 9" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB CAM 9
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461346
+#EXTINF:-1 tvg-id="BBB21 - CAM 1" tvg-name="BBB HD" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB HD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460170
+#EXTINF:-1 tvg-id="BBB21 - CAM MOSAICO" tvg-name="BBB MOSAICO HD" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB MOSAICO HD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/461366
+#EXTINF:-1 tvg-id="BBB21 - CAM 1" tvg-name="BBB SD" tvg-logo="https://i.imgur.com/uONN4YM.png" group-title="BBB | 2021",BBB SD
+http://noah.tvdns.tech:80/FbioBeckheuser/heusrBeckheser/460171
