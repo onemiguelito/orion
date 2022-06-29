@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Hermanoteu SD
+https://server42.sukodanos.pics/index2.php?v=Y3crbE5Fci92YjZxaDBmRjNOK2pMSXdQTzJScG41ZDlYeUlzOXBoc3d3NkQ4T3RzK2s4VzR4WEZlUXRZTzRMSg==&t=1656472755&res=360
+#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Hermanoteu HD
+https://server48.porekosa.cloud/index2.php?v=Y3crbE5Fci92YjZxaDBmRjNOK2pMSXdQTzJScG41ZDlYeUlzOXBoc3d3NkQ4T3RzK2s4VzR4WEZlUXRZTzRMSg==&t=1656472803&res=720
+#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Hermanoteu SHD
+
 
 #EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 1
 https://ns5000793.ip-142-4-219.net/Animes/D/dragon-ball-dublado/01.MP4
