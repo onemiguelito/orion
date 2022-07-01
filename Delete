@@ -1,9 +1,16 @@
 #EXTM3U
-#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Hermanoteu SD
-https://server42.sukodanos.pics/index2.php?v=Y3crbE5Fci92YjZxaDBmRjNOK2pMSXdQTzJScG41ZDlYeUlzOXBoc3d3NkQ4T3RzK2s4VzR4WEZlUXRZTzRMSg==&t=1656472755&res=360
-#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Hermanoteu HD
-https://server48.porekosa.cloud/index2.php?v=Y3crbE5Fci92YjZxaDBmRjNOK2pMSXdQTzJScG41ZDlYeUlzOXBoc3d3NkQ4T3RzK2s4VzR4WEZlUXRZTzRMSg==&t=1656472803&res=720
-#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Hermanoteu SHD
+#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,theboys EP2
+https://cdn2.temperosdavovo.com/TVV7VMRex659aQ_U6aEf_vkG25KZZgYvwPsVYcFrtd0bRd6yBauktCn0A5y0VitDxMwEQdUHZ23NDfUZvyc98g/4_JtIAI6hlNIl2cscsg7SKo4Q7bmgM4kpa_DYhDXlLs/video.m3u8
+#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,theboys EP3
+https://cdn2.temperosdavovo.com/ckbE345vw7Du72OFt78mKkTiqI5uUHFfmjjOxW9b1iRjV8Bds2uPAi7TR8j4gtUgcgKfZ6fSB3dK2ucEIzJhxQ/1LjqMOD75zniCW-10FNhUKJ52d0rQfoboT90guFHJEA/720.m3u8
+#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,theboys EP4
+
+#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,theboys EP5
+
+
+
+
+
 
 
 #EXTINF:0 group-title="Dragon Ball Classico" tvg-logo="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" tvg-logo-small="https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/07/1_l-Q7JVyrvW2ZwaoFQKUHvQ.jpeg" ,Dragon Ball 1
