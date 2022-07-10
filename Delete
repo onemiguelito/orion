@@ -1,21 +1,20 @@
 #EXTM3U
 
-#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Avatar
-https://cdn2.temperosdavovo.com/aHWR_JQrfuqQE_85ixXER-KJzk-FC2R11ck5LJ7Zp7d1cc68ammbBSM4-e06demFluM0CoNZiKq-Lbe5CMBCQQ/4a2XAVjtAowXHQd-wwJD6vG_Diz5iRHOEVMGZp0ndpc/720.m3u8
-#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Avatar B
-https://cloclo4.datacloudmail.ru/public/view/7YUpjjE4PufWpQnzAnai77UjXLm5e6wUrej2u6wVQtswkuQ1xpEFKcf34BmNPir2No11HA/no/2XL4PiSNjkpm81et.mp4
-#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Avatar 2B
-https://s-delivery31.mxdcontent.net/v/1f3ffc5bcd0740d099a76e8c5f234944.mp4?s=1zSqm8rB8nwwtzalxyCdTQ&e=1657281428&_t=1657268206
-
-#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,theboys EP5
-https://s28.drop.download:182/d/khcsukbz4tcdvbi4hw54zck5zrw2gsgnqizq3ro5wysf47cuythyyuewwgblryocdhjnuyis/The.Boys.S03E05.720p.MP4.LEG.BaixarSeriesMP4.Club.mp4
+#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Globo sp
+https://m3u9.ml/a2/hls1/bobosp.m3u8?mu3zAQc9HC3GbwJq=CT81Tnffk3eGParSCWbdhA&3U1G7qaTxrPbalZnEx=1657508467
+#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Globo
+https://m3u9.ml/a2/hls1/boborj.m3u8?mu3zAQc9HC3GbwJq=q_xtmI_4BqvvjFqv1PaVxA&3U1G7qaTxrPbalZnEx=1657508768
+#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Globo
+https://m3u9.ml/a2/hls1/boborj.m3u8
+#EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Premier
 #EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,theboys EP7
-https://www3.careerqna.com:183/d/6e3zrx6r26kwoyap2ofla76io4yyvolymbvjaieeaysfelakqetp7bfukc3ij5egbj7uohqx/The.Boys.S03E07.720p.MP4.LEG.BaixarSeriesMP4.Club.mp4
 #EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,theboys EP70
-https://pandafiles.com/get_file?token=aHR0cHM6Ly93d3czLmNhcmVlcnFuYS5jb206MTgzL2QvNmUzenJ4NnIyNmt3b3lhcDJvZmxhNzZpbzR5eXZvbHltYnZqYWllZWF5c2ZlbGFrcWV0cDdiZnVrYzNpajVlZ2JqN3VvaHF4L1RoZS5Cb3lzLlMwM0UwNy43MjBwLk1QNC5MRUcuQmFpeGFyU2VyaWVzTVA0LkNsdWIubXA0
 #EXTINF:0 group-title="Filme" tvg-logo="" tvg-logo-small="" ,Dr. Estranho e eu multicomi seu cu
-https://861605321.tapecontent.net/radosgw/YeWR2L9K9aCvGP2/7yJCTE2ZCPy6KnDRd8bS3vtiSyrZoKDxkWRYWeWBF_5uPisYkyl2blV4ssAwPF0vWHnWkuv5MxFrzET8ds7UWbr42aqqDrCkpEHkLDgXyHvJobsveVyW8O97tOop_pj1sHfgSQ_K3fb_rd1uWeT40LfSDrEQmMDHk_2nLzWn8yfqjfMhHnfx-qxY5Qnb2YST0RtHyuprFSvt2iWvPAz8zueyNiilue85cKTJ44K_AF3CgjukNwKztTN381sxI-I-bWLbScM-23B8X8x-9f3_DfWCmeh6b5YIvywjwk4ghtbfcTGo2v8blUyge4NLDkNbvTkw_6Yb-ip3Qksz/Doutor.Estranho.2.720p.MP4.DUB.BaixarSeriesMP4.Club.mp4?dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name=" STAR CHANNEL" tvg-logo="http://nbrasil.biz:80/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CANAIS: FILMES SERRIÉS", STAR CHANNEL
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/starchannel_5a5b0f9b_efba5b8bbafde048428010ee6dd4e1f13396c9e1/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI1LjEwNiI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCA2LjE7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MS4wLjQ0NzIuMTI0IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MjYzNDU2MzE7fQ%3D%3D
+#EXTINF:-1 tvg-id="" tvg-name=" PREMIRE CLUBES" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/premiere-150x24.png" group-title="CANAIS: FILMES SERRIÉS", PREMIERE CLUBES
+https://m3u9.ml/a/hls1/espnbrasil.m3u8?mu3zAQc9HC3GbwJq=A2Q6PXiatyT2ts6FFX4DoQ&3U1G7qaTxrPbalZnEx=1626375104
 
 
 
